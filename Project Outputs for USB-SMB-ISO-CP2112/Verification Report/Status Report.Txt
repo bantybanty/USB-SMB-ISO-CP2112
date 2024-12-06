@@ -1,0 +1,12 @@
+Output: Test Point Report
+Type  : Test Points
+From  : PCB Document [USB-SMB-ISO-CP2112-V-1.PcbDoc]
+   Generated File[Assembly Testpoint Report for USB-SMB-ISO-CP2112-V-1.txt]
+   Generated File[Assembly Testpoint Report for USB-SMB-ISO-CP2112-V-1.csv]
+   Generated File[Assembly Testpoint Report for USB-SMB-ISO-CP2112-V-1.ipc]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 03:21:00 On 23-11-2024

@@ -1,0 +1,1745 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+@2 .no_pop
+@3 .comp_ignore
+@4 .comp_variant_list
+
+#
+#Component attribute text strings
+#
+
+# CMP 0
+CMP 12 43.2308 15.2654 90 N ZD2P MM3Z12VST1G ;0=1,1=0.8000
+PRP Case/Package 'SOD-323-2'
+PRP CATEGORY 'Zener Diodes'
+PRP componentlink1description 'https://datasheet.ciiva.com/30478/0900766b8127c8bd-30478408.pdf?src-supplier=Rs'
+PRP componentlink1url 'https://datasheet.ciiva.com/30478/0900766b8127c8bd-30478408.pdf?src-supplier=Rs'
+PRP componentlink2description 'https://datasheet.ciiva.com/16292/mm3z12vst1g-16292931.pdf?src-supplier=Future+Electronics'
+PRP componentlink2url 'https://datasheet.ciiva.com/16292/mm3z12vst1g-16292931.pdf?src-supplier=Future+Electronics'
+PRP ComponentLink3Description 'https://datasheet.ciiva.com/22626/1878251-22626885.pdf?src-supplier=Element14'
+PRP ComponentLink3URL 'https://datasheet.ciiva.com/22626/1878251-22626885.pdf?src-supplier=Element14'
+PRP ComponentLink4Description 'https://datasheet.ciiva.com/894/mm3z2v4st1-d-894650.pdf?src-supplier=Digikey'
+PRP ComponentLink4URL 'https://datasheet.ciiva.com/894/mm3z2v4st1-d-894650.pdf?src-supplier=Digikey'
+PRP ComponentLink5Description 'https://datasheet.ciiva.com/894/mm3z2v4st1-d-894651.pdf?src-supplier=Digikey'
+PRP ComponentLink5URL 'https://datasheet.ciiva.com/894/mm3z2v4st1-d-894651.pdf?src-supplier=Digikey'
+PRP ComponentLink6Description 'https://datasheet.ciiva.com/894/mm3z2v4st1-d-894649.pdf?src-supplier=Digikey'
+PRP ComponentLink6URL 'https://datasheet.ciiva.com/894/mm3z2v4st1-d-894649.pdf?src-supplier=Digikey'
+PRP Forward_Voltage '900mV'
+PRP Height '1mm'
+PRP Impedance '25R'
+PRP Lead_Free 'Lead Free'
+PRP Length '1.8mm'
+PRP MANUFACTURER 'ON Semiconductor'
+PRP Manufacturer_Part_Number 'MM3Z12VST1G'
+PRP Material 'Plastic'
+PRP Max_Operating_Temperature '150°C'
+PRP Max_Power_Dissipation '300mW'
+PRP Max_Reverse_Current '100nA'
+PRP Max_Reverse_Leakage_Current '100nA'
+PRP Min_Operating_Temperature '-65°C'
+PRP Package_Quantity '3000'
+PRP packaging 'Tape and Reel'
+PRP Pins '2'
+PRP Power_Dissipation '200mW'
+PRP Power_Rating '200mW'
+PRP Pricing_1 '3000=0.0152, 6000=0.0145, 9000=0.0143, 27000=0.0137, 51000=0.0133, 102000=0.0128, 252000=0.0125, 501000=0.0123 (USD)'
+PRP Radiation_Hardening 'No'
+PRP Reach_SVHC_Compliant 'No'
+PRP RoHS 'Yes'
+PRP RoHS_Compliant 'Yes'
+PRP SERIES '-'
+PRP Stock_1 '60000'
+PRP Supplier_1 'Onlinecomponents.com'
+PRP Supplier_Part_Number_1 'MM3Z12VST1G'
+PRP Test_Current '5mA'
+PRP Tolerance '2%'
+PRP Voltage_Rating_(DC) '12V'
+PRP Voltage_Tolerance '2%'
+PRP Width '1.35mm'
+PRP Working_Voltage '12V'
+PRP Zener_Current '10mA'
+PRP Zener_Voltage '12V'
+TOP 0 43.2308 14.15290032 0 N 2 10 1
+TOP 1 43.2308 16.37789968 0 N 3 6 2
+#
+# CMP 1
+CMP 11 45.6946 16.6624 0 N R2P AC0603FR-07100KL ;0=1,1=0.0000
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP Case/Package '0603'
+PRP CATEGORY 'Chip SMD Resistors'
+PRP componentlink1description 'https://datasheet.ciiva.com/26862/getdatasheetpartid-715379-26862460.pdf?src-supplier=Verical'
+PRP componentlink1url 'https://datasheet.ciiva.com/26862/getdatasheetpartid-715379-26862460.pdf?src-supplier=Verical'
+PRP componentlink2description 'https://datasheet.ciiva.com/5562/pyu-ac-51-rohs-l-2-5562536.pdf?src-supplier=Mouser'
+PRP componentlink2url 'https://datasheet.ciiva.com/5562/pyu-ac-51-rohs-l-2-5562536.pdf?src-supplier=Mouser'
+PRP Construction 'Rectangular'
+PRP Depth '0.8mm'
+PRP Features 'Moisture Resistant,Automotive AEC-Q200'
+PRP Lead_Free '5697LeadFree'
+PRP Length '1.6mm'
+PRP MANUFACTURER 'Yageo'
+PRP Manufacturer_Part_Number 'AC0603FR-07100KL'
+PRP Max_Operating_Temperature '155°C'
+PRP Max_Power_Dissipation '100mW'
+PRP Military_Standard 'Not'
+PRP Min_Operating_Temperature '-55°C'
+PRP Moisture_Sensitivity_Level '1'
+PRP Number_of_Terminations '2'
+PRP packaging 'Tape and Reel'
+PRP Power_Rating '100mW'
+PRP Pricing_1 '5000=0.0034, 25000=0.0018, 75000=0.0032, 125000=0.0017, 250000=0.0031, 750000=0.003, 2500000=0.0027 (USD)'
+PRP Ratings 'AEC-Q200'
+PRP RoHS 'Yes'
+PRP RoHS_Compliant 'Yes'
+PRP SERIES 'AC'
+PRP Stock_1 '3790000'
+PRP Supplier_1 'Future Electronics'
+PRP Supplier_Part_Number_1 '6029288'
+PRP Technology 'THICK FILM'
+PRP Temperature_Coefficient '100ppm/°C'
+PRP Termination 'SMD/SMT'
+PRP Tolerance '1%'
+PRP value '100kR'
+PRP Voltage_Rating '50V'
+PRP Working_Voltage '75V'
+TOP 0 44.94459896 16.6624 0 N 3 5 1
+TOP 1 46.44460104 16.6624 0 N 25 14 2
+#
+# CMP 2
+CMP 3 45.5873993 14.5034 90 N Q2P PMPB14XPZ ;0=1,1=0.0000
+PRP MANUFACTURER 'Nexperia'
+PRP Manufacturer_Part_Number 'PMPB14XPZ'
+PRP RoHS 'No'
+PRP Stock_1 '3000'
+PRP Supplier_1 'Element14'
+PRP Supplier_Part_Number_1 '4177131'
+TOP 0 45.5873993 13.5684006 90 N 1 21 1-2-5-6-7
+TOP 1 46.23740054 13.5684006 90 N 1 22 1-2-5-6-7
+TOP 2 45.5873993 15.4383994 90 N 1 23 1-2-5-6-7
+TOP 3 45.8724 14.5034 90 N 1 24 1-2-5-6-7
+TOP 4 46.23740054 15.4383994 90 N 1 25 1-2-5-6-7
+TOP 5 44.93739806 15.4383994 90 N 3 4 3
+TOP 6 44.81239958 14.5034 90 N 2 8 4-8
+TOP 7 44.93739806 13.5684006 90 N 2 9 4-8
+#
+# CMP 3
+CMP 11 41.148 13.3858 90 N F2P F0603 ;0=1,1=0.0000
+PRP MANUFACTURER ''
+PRP Manufacturer_Part_Number ''
+PRP value '100mA'
+TOP 0 41.148 14.13580104 90 N 2 7 1
+TOP 1 41.148 12.63579896 90 N 24 1 2
+#
+# CMP 4
+CMP 0 46.2534 12.3444 0 N C3P C0603C104K8RACTU ;0=1,1=0.0000
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP Case/Package '0603'
+PRP CATEGORY 'Ceramic Capacitors'
+PRP componentlink1description 'https://datasheet.ciiva.com/6093/1776114-6093269.pdf?src-supplier=Farnell'
+PRP componentlink1url 'https://datasheet.ciiva.com/6093/1776114-6093269.pdf?src-supplier=Farnell'
+PRP componentlink2description 'https://datasheet.ciiva.com/7823/kem-c1002-x7r-smd-7823989.pdf?src-supplier=Element14'
+PRP componentlink2url 'https://datasheet.ciiva.com/7823/kem-c1002-x7r-smd-7823989.pdf?src-supplier=Element14'
+PRP ComponentLink3Description 'https://datasheet.ciiva.com/22693/1851736-22693967.pdf?src-supplier=Element14'
+PRP ComponentLink3URL 'https://datasheet.ciiva.com/22693/1851736-22693967.pdf?src-supplier=Element14'
+PRP ComponentLink4Description 'https://datasheet.ciiva.com/14589/70095383-14589402.pdf?src-supplier=Allied+Electronics'
+PRP ComponentLink4URL 'https://datasheet.ciiva.com/14589/70095383-14589402.pdf?src-supplier=Allied+Electronics'
+PRP ComponentLink5Description 'https://datasheet.ciiva.com/14593/70095383-14593978.pdf?src-supplier=Allied+Electronics'
+PRP ComponentLink5URL 'https://datasheet.ciiva.com/14593/70095383-14593978.pdf?src-supplier=Allied+Electronics'
+PRP ComponentLink6Description 'https://datasheet.ciiva.com/5419/kem-c1002-x7r-smd-357932-5419657.pdf?src-supplier=Mouser'
+PRP ComponentLink6URL 'https://datasheet.ciiva.com/5419/kem-c1002-x7r-smd-357932-5419657.pdf?src-supplier=Mouser'
+PRP ComponentLink7Description 'https://datasheet.ciiva.com/18192/getdatasheetpartid-91529-18192711.pdf?src-supplier=Verical'
+PRP ComponentLink7URL 'https://datasheet.ciiva.com/18192/getdatasheetpartid-91529-18192711.pdf?src-supplier=Verical'
+PRP Construction 'Flat'
+PRP Depth '0.8mm'
+PRP Dielectric 'X7R'
+PRP Dielectric_Material 'Ceramic'
+PRP Dissipation_Factor '5%'
+PRP Height '0.8mm'
+PRP Lead_Free '5697LeadFree'
+PRP Lead_Pitch '0.7mm'
+PRP Length '1.6mm'
+PRP MANUFACTURER 'KEMET'
+PRP Manufacturer_Part_Number 'C0603C104K8RACTU'
+PRP Material '4241ConductorMaterial'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'Surface Mount,PCB'
+PRP Package_Quantity '1'
+PRP packaging 'Tape and Reel'
+PRP Pins '2'
+PRP Pricing_1 '1=0.11, 10=0.075, 50=0.075, 100=0.036, 1000=0.021, 10000=0.017 (USD)'
+PRP Radiation_Hardening 'No'
+PRP Reach_SVHC_Compliant 'No'
+PRP RoHS 'Yes'
+PRP RoHS_Compliant 'Yes'
+PRP SERIES 'C'
+PRP Stock_1 '246409'
+PRP Supplier_1 'Mouser'
+PRP Supplier_Part_Number_1 '80-C0603C104K8R'
+PRP Temperature_Coefficient '30ppm/°C'
+PRP Termination 'SMD/SMT'
+PRP Thickness '0.034inch'
+PRP Tolerance '10%'
+PRP value '100nF'
+PRP Voltage '10V'
+PRP Voltage_Rating '10V'
+PRP Voltage_Rating_(DC) '10V'
+PRP Width '0.031inch'
+TOP 0 45.60339876 12.3444 0 N 1 20 1
+TOP 1 46.90340124 12.3444 0 N 25 13 2
+#
+# CMP 5
+CMP 0 39.9034 13.3604 270 N C2P C0603C105K8PACTU ;0=1,1=0.0000
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP Case/Package '0603'
+PRP CATEGORY 'Ceramic Capacitors'
+PRP Construction 'Flat'
+PRP Depth '0.8mm'
+PRP Dielectric 'X5R'
+PRP Dielectric_Material 'Ceramic'
+PRP Height '0.8mm'
+PRP Lead_Free '5697LeadFree'
+PRP Length '1.6mm'
+PRP MANUFACTURER 'KEMET'
+PRP Manufacturer_Part_Number 'C0603C105K8PACTU'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'Surface Mount'
+PRP Package_Quantity '1'
+PRP packaging 'Tape and Reel'
+PRP Pins '2'
+PRP Pricing_1 '1=0.1, 10=0.03, 50=0.03, 100=0.018, 1000=0.014, 10000=0.009 (USD)'
+PRP Radiation_Hardening 'No'
+PRP Reach_SVHC_Compliant 'No'
+PRP RoHS 'Yes'
+PRP RoHS_Compliant 'Yes'
+PRP SERIES 'C'
+PRP Stock_1 '221942'
+PRP Supplier_1 'Mouser'
+PRP Termination 'SMD/SMT'
+PRP Thickness '0.035inch'
+PRP Tolerance '10%'
+PRP value '1uF'
+PRP Voltage '10V'
+PRP Voltage_Rating '10V'
+PRP Voltage_Rating_(DC) '10V'
+PRP Weight '7.1E-05oz'
+PRP Width '0.031inch'
+TOP 0 39.9034 12.71039876 270 N 24 2 1
+TOP 1 39.9034 14.01040124 270 N 25 10 2
+#
+# CMP 6
+CMP 0 20.3962 4.4958 180 N C4U KGM15AR70J104KM ;0=1,1=0.0000
+PRP CATEGORY 'Ceramic Capacitors'
+PRP MANUFACTURER 'KYOCERA AVX'
+PRP Manufacturer_Part_Number 'KGM15AR70J104KM'
+PRP Package '0603'
+PRP Pricing_1 '1=0.1, 10=0.032, 50=0.0186, 100=0.0144, 500=0.01082, 1000=0.0085, 2500=0.00772, 5000=0.00711 (USD)'
+PRP Stock_1 '117167'
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 '478-KGM15AR70J104KMCT-ND'
+PRP Tol '10%'
+PRP value '100nF'
+PRP Voltage '6.3V'
+TOP 0 21.04620124 4.4958 180 N 34 46 1
+TOP 1 19.74619876 4.4958 180 N 35 47 2
+#
+# CMP 7
+CMP 11 40.19178652 4.60588868 90 N R4I RC0603FR-072K2L ;0=1,1=0.0000
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP Case/Package '0603'
+PRP CATEGORY 'Chip SMD Resistors'
+PRP componentlink1description 'https://datasheet.ciiva.com/2453/pyu-r-int-thick-7-2453943.pdf?src-supplier=Digikey'
+PRP componentlink1url 'https://datasheet.ciiva.com/2453/pyu-r-int-thick-7-2453943.pdf?src-supplier=Digikey'
+PRP componentlink2description 'https://datasheet.ciiva.com/2453/pyu-r-int-thick-7-2453944.pdf?src-supplier=Digikey'
+PRP componentlink2url 'https://datasheet.ciiva.com/2453/pyu-r-int-thick-7-2453944.pdf?src-supplier=Digikey'
+PRP ComponentLink3Description 'https://datasheet.ciiva.com/2453/pyu-r-int-thick-7-2453945.pdf?src-supplier=Digikey'
+PRP ComponentLink3URL 'https://datasheet.ciiva.com/2453/pyu-r-int-thick-7-2453945.pdf?src-supplier=Digikey'
+PRP ComponentLink4Description 'https://datasheet.ciiva.com/7660/1868787-7660791.pdf?src-supplier=Element14'
+PRP ComponentLink4URL 'https://datasheet.ciiva.com/7660/1868787-7660791.pdf?src-supplier=Element14'
+PRP ComponentLink5Description 'https://datasheet.ciiva.com/46394/443971-46394958.pdf?src-supplier=Element14'
+PRP ComponentLink5URL 'https://datasheet.ciiva.com/46394/443971-46394958.pdf?src-supplier=Element14'
+PRP Features 'Moisture Resistant'
+PRP Lead_Free 'Lead Free'
+PRP MANUFACTURER 'Yageo'
+PRP Manufacturer_Part_Number 'RC0603FR-072K2L'
+PRP Max_Operating_Temperature '155°C'
+PRP Max_Power_Dissipation '100mW'
+PRP Min_Operating_Temperature '-55°C'
+PRP Number_of_Terminations '2'
+PRP packaging 'Tape and Reel'
+PRP Power_Rating '100mW'
+PRP Pricing_1 '5000=0.0026, 75000=0.001, 100000=0.0024, 200000=0.001, 375000=0.0023, 500000=0.0009, 1250000=0.0022, 5000000=0.002 (USD)'
+PRP Reach_SVHC_Compliant 'Unknown'
+PRP Resistance_Tolerance '1%'
+PRP Resistor_Type 'Thick Film'
+PRP RoHS 'Yes'
+PRP RoHS_Compliant 'Yes'
+PRP SERIES 'RC'
+PRP Stock_1 '6755000'
+PRP Supplier_1 'Future Electronics'
+PRP Supplier_Part_Number_1 '6372452'
+PRP Temperature_Coefficient '100ppm/°C'
+PRP Tolerance '1%'
+PRP value '2.2kR'
+PRP Voltage_Rating '50V'
+TOP 0 40.19178652 5.35588972 90 N 24 3 1
+TOP 1 40.19178652 3.85588764 90 N 5 5 2
+#
+# CMP 8
+CMP 11 38.8112 5.3848 90 N R3I RC0603FR-072K2L ;0=1,1=0.0000
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP Case/Package '0603'
+PRP CATEGORY 'Chip SMD Resistors'
+PRP componentlink1description 'https://datasheet.ciiva.com/2453/pyu-r-int-thick-7-2453943.pdf?src-supplier=Digikey'
+PRP componentlink1url 'https://datasheet.ciiva.com/2453/pyu-r-int-thick-7-2453943.pdf?src-supplier=Digikey'
+PRP componentlink2description 'https://datasheet.ciiva.com/2453/pyu-r-int-thick-7-2453944.pdf?src-supplier=Digikey'
+PRP componentlink2url 'https://datasheet.ciiva.com/2453/pyu-r-int-thick-7-2453944.pdf?src-supplier=Digikey'
+PRP ComponentLink3Description 'https://datasheet.ciiva.com/2453/pyu-r-int-thick-7-2453945.pdf?src-supplier=Digikey'
+PRP ComponentLink3URL 'https://datasheet.ciiva.com/2453/pyu-r-int-thick-7-2453945.pdf?src-supplier=Digikey'
+PRP ComponentLink4Description 'https://datasheet.ciiva.com/7660/1868787-7660791.pdf?src-supplier=Element14'
+PRP ComponentLink4URL 'https://datasheet.ciiva.com/7660/1868787-7660791.pdf?src-supplier=Element14'
+PRP ComponentLink5Description 'https://datasheet.ciiva.com/46394/443971-46394958.pdf?src-supplier=Element14'
+PRP ComponentLink5URL 'https://datasheet.ciiva.com/46394/443971-46394958.pdf?src-supplier=Element14'
+PRP Features 'Moisture Resistant'
+PRP Lead_Free 'Lead Free'
+PRP MANUFACTURER 'Yageo'
+PRP Manufacturer_Part_Number 'RC0603FR-072K2L'
+PRP Max_Operating_Temperature '155°C'
+PRP Max_Power_Dissipation '100mW'
+PRP Min_Operating_Temperature '-55°C'
+PRP Number_of_Terminations '2'
+PRP packaging 'Tape and Reel'
+PRP Power_Rating '100mW'
+PRP Pricing_1 '5000=0.0026, 75000=0.001, 100000=0.0024, 200000=0.001, 375000=0.0023, 500000=0.0009, 1250000=0.0022, 5000000=0.002 (USD)'
+PRP Reach_SVHC_Compliant 'Unknown'
+PRP Resistance_Tolerance '1%'
+PRP Resistor_Type 'Thick Film'
+PRP RoHS 'Yes'
+PRP RoHS_Compliant 'Yes'
+PRP SERIES 'RC'
+PRP Stock_1 '6755000'
+PRP Supplier_1 'Future Electronics'
+PRP Supplier_Part_Number_1 '6372452'
+PRP Temperature_Coefficient '100ppm/°C'
+PRP Tolerance '1%'
+PRP value '2.2kR'
+PRP Voltage_Rating '50V'
+TOP 0 38.8112 6.13480104 90 N 24 4 1
+TOP 1 38.8112 4.63479896 90 N 4 5 2
+#
+# CMP 9
+CMP 11 24.9174 5.3848 90 N R2I RC0603FR-072K2L ;0=1,1=0.0000
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP Case/Package '0603'
+PRP CATEGORY 'Chip SMD Resistors'
+PRP componentlink1description 'https://datasheet.ciiva.com/2453/pyu-r-int-thick-7-2453943.pdf?src-supplier=Digikey'
+PRP componentlink1url 'https://datasheet.ciiva.com/2453/pyu-r-int-thick-7-2453943.pdf?src-supplier=Digikey'
+PRP componentlink2description 'https://datasheet.ciiva.com/2453/pyu-r-int-thick-7-2453944.pdf?src-supplier=Digikey'
+PRP componentlink2url 'https://datasheet.ciiva.com/2453/pyu-r-int-thick-7-2453944.pdf?src-supplier=Digikey'
+PRP ComponentLink3Description 'https://datasheet.ciiva.com/2453/pyu-r-int-thick-7-2453945.pdf?src-supplier=Digikey'
+PRP ComponentLink3URL 'https://datasheet.ciiva.com/2453/pyu-r-int-thick-7-2453945.pdf?src-supplier=Digikey'
+PRP ComponentLink4Description 'https://datasheet.ciiva.com/7660/1868787-7660791.pdf?src-supplier=Element14'
+PRP ComponentLink4URL 'https://datasheet.ciiva.com/7660/1868787-7660791.pdf?src-supplier=Element14'
+PRP ComponentLink5Description 'https://datasheet.ciiva.com/46394/443971-46394958.pdf?src-supplier=Element14'
+PRP ComponentLink5URL 'https://datasheet.ciiva.com/46394/443971-46394958.pdf?src-supplier=Element14'
+PRP Features 'Moisture Resistant'
+PRP Lead_Free 'Lead Free'
+PRP MANUFACTURER 'Yageo'
+PRP Manufacturer_Part_Number 'RC0603FR-072K2L'
+PRP Max_Operating_Temperature '155°C'
+PRP Max_Power_Dissipation '100mW'
+PRP Min_Operating_Temperature '-55°C'
+PRP Number_of_Terminations '2'
+PRP packaging 'Tape and Reel'
+PRP Power_Rating '100mW'
+PRP Pricing_1 '5000=0.0026, 75000=0.001, 100000=0.0024, 200000=0.001, 375000=0.0023, 500000=0.0009, 1250000=0.0022, 5000000=0.002 (USD)'
+PRP Reach_SVHC_Compliant 'Unknown'
+PRP Resistance_Tolerance '1%'
+PRP Resistor_Type 'Thick Film'
+PRP RoHS 'Yes'
+PRP RoHS_Compliant 'Yes'
+PRP SERIES 'RC'
+PRP Stock_1 '6755000'
+PRP Supplier_1 'Future Electronics'
+PRP Supplier_Part_Number_1 '6372452'
+PRP Temperature_Coefficient '100ppm/°C'
+PRP Tolerance '1%'
+PRP value '2.2kR'
+PRP Voltage_Rating '50V'
+TOP 0 24.9174 6.13480104 90 N 34 47 1
+TOP 1 24.9174 4.63479896 90 N 6 8 2
+#
+# CMP 10
+CMP 11 26.289 4.6482 90 N R1I RC0603FR-072K2L ;0=1,1=0.0000
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP Case/Package '0603'
+PRP CATEGORY 'Chip SMD Resistors'
+PRP componentlink1description 'https://datasheet.ciiva.com/2453/pyu-r-int-thick-7-2453943.pdf?src-supplier=Digikey'
+PRP componentlink1url 'https://datasheet.ciiva.com/2453/pyu-r-int-thick-7-2453943.pdf?src-supplier=Digikey'
+PRP componentlink2description 'https://datasheet.ciiva.com/2453/pyu-r-int-thick-7-2453944.pdf?src-supplier=Digikey'
+PRP componentlink2url 'https://datasheet.ciiva.com/2453/pyu-r-int-thick-7-2453944.pdf?src-supplier=Digikey'
+PRP ComponentLink3Description 'https://datasheet.ciiva.com/2453/pyu-r-int-thick-7-2453945.pdf?src-supplier=Digikey'
+PRP ComponentLink3URL 'https://datasheet.ciiva.com/2453/pyu-r-int-thick-7-2453945.pdf?src-supplier=Digikey'
+PRP ComponentLink4Description 'https://datasheet.ciiva.com/7660/1868787-7660791.pdf?src-supplier=Element14'
+PRP ComponentLink4URL 'https://datasheet.ciiva.com/7660/1868787-7660791.pdf?src-supplier=Element14'
+PRP ComponentLink5Description 'https://datasheet.ciiva.com/46394/443971-46394958.pdf?src-supplier=Element14'
+PRP ComponentLink5URL 'https://datasheet.ciiva.com/46394/443971-46394958.pdf?src-supplier=Element14'
+PRP Features 'Moisture Resistant'
+PRP Lead_Free 'Lead Free'
+PRP MANUFACTURER 'Yageo'
+PRP Manufacturer_Part_Number 'RC0603FR-072K2L'
+PRP Max_Operating_Temperature '155°C'
+PRP Max_Power_Dissipation '100mW'
+PRP Min_Operating_Temperature '-55°C'
+PRP Number_of_Terminations '2'
+PRP packaging 'Tape and Reel'
+PRP Power_Rating '100mW'
+PRP Pricing_1 '5000=0.0026, 75000=0.001, 100000=0.0024, 200000=0.001, 375000=0.0023, 500000=0.0009, 1250000=0.0022, 5000000=0.002 (USD)'
+PRP Reach_SVHC_Compliant 'Unknown'
+PRP Resistance_Tolerance '1%'
+PRP Resistor_Type 'Thick Film'
+PRP RoHS 'Yes'
+PRP RoHS_Compliant 'Yes'
+PRP SERIES 'RC'
+PRP Stock_1 '6755000'
+PRP Supplier_1 'Future Electronics'
+PRP Supplier_Part_Number_1 '6372452'
+PRP Temperature_Coefficient '100ppm/°C'
+PRP Tolerance '1%'
+PRP value '2.2kR'
+PRP Voltage_Rating '50V'
+TOP 0 26.289 5.39820104 90 N 34 48 1
+TOP 1 26.289 3.89819896 90 N 7 10 2
+#
+# CMP 11
+CMP 0 38.8112 7.747 270 N C4I C0603C104K8RACTU ;0=1,1=0.0000
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP Case/Package '0603'
+PRP CATEGORY 'Ceramic Capacitors'
+PRP componentlink1description 'https://datasheet.ciiva.com/6093/1776114-6093269.pdf?src-supplier=Farnell'
+PRP componentlink1url 'https://datasheet.ciiva.com/6093/1776114-6093269.pdf?src-supplier=Farnell'
+PRP componentlink2description 'https://datasheet.ciiva.com/7823/kem-c1002-x7r-smd-7823989.pdf?src-supplier=Element14'
+PRP componentlink2url 'https://datasheet.ciiva.com/7823/kem-c1002-x7r-smd-7823989.pdf?src-supplier=Element14'
+PRP ComponentLink3Description 'https://datasheet.ciiva.com/22693/1851736-22693967.pdf?src-supplier=Element14'
+PRP ComponentLink3URL 'https://datasheet.ciiva.com/22693/1851736-22693967.pdf?src-supplier=Element14'
+PRP ComponentLink4Description 'https://datasheet.ciiva.com/14589/70095383-14589402.pdf?src-supplier=Allied+Electronics'
+PRP ComponentLink4URL 'https://datasheet.ciiva.com/14589/70095383-14589402.pdf?src-supplier=Allied+Electronics'
+PRP ComponentLink5Description 'https://datasheet.ciiva.com/14593/70095383-14593978.pdf?src-supplier=Allied+Electronics'
+PRP ComponentLink5URL 'https://datasheet.ciiva.com/14593/70095383-14593978.pdf?src-supplier=Allied+Electronics'
+PRP ComponentLink6Description 'https://datasheet.ciiva.com/5419/kem-c1002-x7r-smd-357932-5419657.pdf?src-supplier=Mouser'
+PRP ComponentLink6URL 'https://datasheet.ciiva.com/5419/kem-c1002-x7r-smd-357932-5419657.pdf?src-supplier=Mouser'
+PRP ComponentLink7Description 'https://datasheet.ciiva.com/18192/getdatasheetpartid-91529-18192711.pdf?src-supplier=Verical'
+PRP ComponentLink7URL 'https://datasheet.ciiva.com/18192/getdatasheetpartid-91529-18192711.pdf?src-supplier=Verical'
+PRP Construction 'Flat'
+PRP Depth '0.8mm'
+PRP Dielectric 'X7R'
+PRP Dielectric_Material 'Ceramic'
+PRP Dissipation_Factor '5%'
+PRP Height '0.8mm'
+PRP Lead_Free '5697LeadFree'
+PRP Lead_Pitch '0.7mm'
+PRP Length '1.6mm'
+PRP MANUFACTURER 'KEMET'
+PRP Manufacturer_Part_Number 'C0603C104K8RACTU'
+PRP Material '4241ConductorMaterial'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'Surface Mount,PCB'
+PRP Package_Quantity '1'
+PRP packaging 'Tape and Reel'
+PRP Pins '2'
+PRP Pricing_1 '1=0.11, 10=0.075, 50=0.075, 100=0.036, 1000=0.021, 10000=0.017 (USD)'
+PRP Radiation_Hardening 'No'
+PRP Reach_SVHC_Compliant 'No'
+PRP RoHS 'Yes'
+PRP RoHS_Compliant 'Yes'
+PRP SERIES 'C'
+PRP Stock_1 '246409'
+PRP Supplier_1 'Mouser'
+PRP Supplier_Part_Number_1 '80-C0603C104K8R'
+PRP Temperature_Coefficient '30ppm/°C'
+PRP Termination 'SMD/SMT'
+PRP Thickness '0.034inch'
+PRP Tolerance '10%'
+PRP value '100nF'
+PRP Voltage '10V'
+PRP Voltage_Rating '10V'
+PRP Voltage_Rating_(DC) '10V'
+PRP Width '0.031inch'
+TOP 0 38.8112 7.09699876 270 N 24 5 1
+TOP 1 38.8112 8.39700124 270 N 25 11 2
+#
+# CMP 12
+CMP 0 37.465 6.6294 270 N C3I CC0603KRX7R6BB102 ;0=1,1=0.0000
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP Case/Package '0603'
+PRP CATEGORY 'Ceramic Capacitors'
+PRP componentlink1description 'https://datasheet.ciiva.com/13210/upy-gphc-x7r-6-3v-to-50v-8-12304-13210264.pdf?src-supplier=Mouser'
+PRP componentlink1url 'https://datasheet.ciiva.com/13210/upy-gphc-x7r-6-3v-to-50v-8-12304-13210264.pdf?src-supplier=Mouser'
+PRP Construction 'Flat'
+PRP Dielectric 'X7R'
+PRP Halogen_Free 'Halogen Free'
+PRP Height '0.8mm'
+PRP Lead_Free 'Lead Free'
+PRP Length '0.063inch'
+PRP MANUFACTURER 'Yageo'
+PRP Manufacturer_Part_Number 'CC0603KRX7R6BB102'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'Surface Mount'
+PRP packaging 'Tape and Reel'
+PRP Pricing_1 '4000=0.0036, 16000=0.0035, 80000=0.0033, 160000=0.0033, 500000=0.0031 (USD)'
+PRP RoHS 'Yes'
+PRP RoHS_Compliant 'Yes'
+PRP SERIES 'CC'
+PRP Stock_1 '16000'
+PRP Supplier_1 'Future Electronics'
+PRP Supplier_Part_Number_1 '6091492'
+PRP Termination 'Wraparound'
+PRP Thickness '0.035inch'
+PRP Tolerance '10%'
+PRP value '1nF'
+PRP Voltage_Rating '10V'
+PRP Voltage_Rating_(DC) '10V'
+PRP Width '0.031inch'
+TOP 0 37.465 5.97939876 270 N 24 6 1
+TOP 1 37.465 7.27940124 270 N 25 12 2
+#
+# CMP 13
+CMP 0 28.1686 7.6454 0 N C2I 06036A102KAT2A ;0=1,1=0.0000
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP Case/Package '0603'
+PRP CATEGORY 'Ceramic Capacitors'
+PRP componentlink1description 'https://datasheet.ciiva.com/6265/ccog-6265066.pdf?src-supplier=Digikey'
+PRP componentlink1url 'https://datasheet.ciiva.com/6265/ccog-6265066.pdf?src-supplier=Digikey'
+PRP Construction 'Flat'
+PRP Depth '0.81mm'
+PRP Dielectric 'C0G'
+PRP Length '1.6mm'
+PRP MANUFACTURER 'Kyocera AVX'
+PRP Manufacturer_Part_Number '06036A102KAT2A'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'Surface Mount'
+PRP Package_Quantity '4000'
+PRP packaging 'Tape and Reel'
+PRP Pins '2'
+PRP RoHS 'Yes'
+PRP RoHS_Compliant 'Yes'
+PRP SERIES '-'
+PRP Supplier_1 'Avnet'
+PRP Supplier_Part_Number_1 '06036A102KAT2A'
+PRP Termination 'SMD/SMT'
+PRP Thickness '0.035inch'
+PRP Tolerance '10%'
+PRP value '1nF'
+PRP Voltage_Rating '6.3V'
+PRP Voltage_Rating_(DC) '6.3V'
+PRP Width '0.032inch'
+TOP 0 27.51859876 7.6454 0 N 34 49 1
+TOP 1 28.81860124 7.6454 0 N 35 48 2
+#
+# CMP 14
+CMP 0 28.1686 8.8392 0 N C1I KGM15AR70J104KM ;0=1,1=0.0000
+PRP CATEGORY 'Ceramic Capacitors'
+PRP MANUFACTURER 'KYOCERA AVX'
+PRP Manufacturer_Part_Number 'KGM15AR70J104KM'
+PRP Package '0603'
+PRP Pricing_1 '1=0.1, 10=0.032, 50=0.0186, 100=0.0144, 500=0.01082, 1000=0.0085, 2500=0.00772, 5000=0.00711 (USD)'
+PRP Stock_1 '117167'
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 '478-KGM15AR70J104KMCT-ND'
+PRP Tol '10%'
+PRP value '100nF'
+PRP Voltage '6.3V'
+TOP 0 27.51859876 8.8392 0 N 34 50 1
+TOP 1 28.81860124 8.8392 0 N 35 49 2
+#
+# CMP 15
+CMP 6 26.5811 11.869801 270 N D3U RED ;0=1,1=0.0000
+TOP 0 26.5811 11.1198025 270 N 15 6 1
+TOP 1 26.5811 12.61980204 270 N 34 56 2
+#
+# CMP 16
+CMP 5 24.7904 11.869801 270 N D2U GREEN ;0=1,1=0.0000
+TOP 0 24.7904 11.1198025 270 N 14 4 1
+TOP 1 24.7904 12.61980204 270 N 34 55 2
+#
+# CMP 17
+CMP 2 20.00000064 8.99989818 270 N U1U CP2112-F03-GM ;0=1,1=0.0000
+PRP Ambient_Temperature_Range_High '+85°C'
+PRP Ambient_Temperature_Range_Low '-40°C'
+PRP Automotive 'No'
+PRP CATEGORY 'IC'
+PRP componentlink2description 'Datasheet'
+PRP componentlink2url 'https://www.silabs.com/documents/public/data-sheets/cp2112-datasheet.pdf'
+PRP Device_Class_L1 'Integrated Circuits (ICs)'
+PRP Device_Class_L2 'Interface ICs'
+PRP Device_Class_L3 'Controllers'
+PRP Digikey_Description 'IC HID USB-TO-SMBUS BRIDGE 24QFN'
+PRP Height '0.8mm'
+PRP Interface 'USB,SMBus'
+PRP Ipc_Land_Pattern_Name 'QFN50P400X400X75-24'
+PRP Lead_Free 'Yes'
+PRP MANUFACTURER 'Silicon Labs'
+PRP Manufacturer_Part_Number 'CP2112-F03-GM'
+PRP Max_Junction_Temp '+105°C'
+PRP Max_Supply_Voltage '3.6V'
+PRP Min_Supply_Voltage '1.8V'
+PRP Mouser_Description 'Single-Chip HID USB to SMBus Master Bridge 24-Pin QFN'
+PRP Nominal_Supply_Current '130-1500uA'
+PRP Octopart 'https://octopart.com/cp2112-f03-gm-silicon+labs-81780828'
+PRP Package 'CP2112-F03-GM'
+PRP RoHS 'TRUE'
+PRP Standoff_Height '0mm'
+PRP Temperature '-40°C to +85°C'
+PRP Temperature_Range_High '+85°C'
+PRP Temperature_Range_Low '-40°C'
+TOP 0 18.7500006 7.0104 270 N 6 10 1
+TOP 1 19.25000214 7.0104 270 N 35 70 2
+TOP 2 19.75000114 7.0104 270 N 26 8 3
+TOP 3 20.25000014 7.0104 270 N 27 12 4
+TOP 4 20.74999914 7.0104 270 N 34 60 5
+TOP 5 21.25000068 7.0104 270 N 34 61 6
+TOP 6 21.98949882 7.74989814 270 N 30 24 7
+TOP 7 21.98949882 8.24989968 270 N 30 25 8
+TOP 8 21.98949882 8.74989868 270 N 22 7 9
+TOP 9 21.98949882 9.24989768 270 N 0 5 10
+TOP 10 21.98949882 9.74989668 270 N 20 4 11
+TOP 11 21.98949882 10.24989822 270 N 8 2 12
+TOP 12 21.25000068 10.98939636 270 N 9 2 13
+TOP 13 20.74999914 10.98939636 270 N 10 2 14
+TOP 14 20.25000014 10.98939636 270 N 11 2 15
+TOP 15 19.75000114 10.98939636 270 N 16 3 16
+TOP 16 19.25000214 10.98939636 270 N 21 7 17
+TOP 17 18.7500006 10.98939636 270 N 0 4 18
+TOP 18 18.01050246 10.24989822 270 N 0 6 19
+TOP 19 18.01050246 9.74989668 270 N 12 2 20
+TOP 20 18.01050246 9.24989768 270 N 13 2 21
+TOP 21 18.01050246 8.74989868 270 N 14 5 22
+TOP 22 18.01050246 8.24989968 270 N 15 7 23
+TOP 23 18.01050246 7.74989814 270 N 7 12 24
+TOP 24 20.00000064 8.99989818 270 N 35 69 25
+#
+# CMP 18
+CMP 0 23.0124 4.5466 0 N C2U C0603C104K8RACTU ;0=1,1=0.0000
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP Case/Package '0603'
+PRP CATEGORY 'Ceramic Capacitors'
+PRP componentlink1description 'https://datasheet.ciiva.com/6093/1776114-6093269.pdf?src-supplier=Farnell'
+PRP componentlink1url 'https://datasheet.ciiva.com/6093/1776114-6093269.pdf?src-supplier=Farnell'
+PRP componentlink2description 'https://datasheet.ciiva.com/7823/kem-c1002-x7r-smd-7823989.pdf?src-supplier=Element14'
+PRP componentlink2url 'https://datasheet.ciiva.com/7823/kem-c1002-x7r-smd-7823989.pdf?src-supplier=Element14'
+PRP ComponentLink3Description 'https://datasheet.ciiva.com/22693/1851736-22693967.pdf?src-supplier=Element14'
+PRP ComponentLink3URL 'https://datasheet.ciiva.com/22693/1851736-22693967.pdf?src-supplier=Element14'
+PRP ComponentLink4Description 'https://datasheet.ciiva.com/14589/70095383-14589402.pdf?src-supplier=Allied+Electronics'
+PRP ComponentLink4URL 'https://datasheet.ciiva.com/14589/70095383-14589402.pdf?src-supplier=Allied+Electronics'
+PRP ComponentLink5Description 'https://datasheet.ciiva.com/14593/70095383-14593978.pdf?src-supplier=Allied+Electronics'
+PRP ComponentLink5URL 'https://datasheet.ciiva.com/14593/70095383-14593978.pdf?src-supplier=Allied+Electronics'
+PRP ComponentLink6Description 'https://datasheet.ciiva.com/5419/kem-c1002-x7r-smd-357932-5419657.pdf?src-supplier=Mouser'
+PRP ComponentLink6URL 'https://datasheet.ciiva.com/5419/kem-c1002-x7r-smd-357932-5419657.pdf?src-supplier=Mouser'
+PRP ComponentLink7Description 'https://datasheet.ciiva.com/18192/getdatasheetpartid-91529-18192711.pdf?src-supplier=Verical'
+PRP ComponentLink7URL 'https://datasheet.ciiva.com/18192/getdatasheetpartid-91529-18192711.pdf?src-supplier=Verical'
+PRP Construction 'Flat'
+PRP Depth '0.8mm'
+PRP Dielectric 'X7R'
+PRP Dielectric_Material 'Ceramic'
+PRP Dissipation_Factor '5%'
+PRP Height '0.8mm'
+PRP Lead_Free '5697LeadFree'
+PRP Lead_Pitch '0.7mm'
+PRP Length '1.6mm'
+PRP MANUFACTURER 'KEMET'
+PRP Manufacturer_Part_Number 'C0603C104K8RACTU'
+PRP Material '4241ConductorMaterial'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'Surface Mount,PCB'
+PRP Package_Quantity '1'
+PRP packaging 'Tape and Reel'
+PRP Pins '2'
+PRP Pricing_1 '1=0.11, 10=0.075, 50=0.075, 100=0.036, 1000=0.021, 10000=0.017 (USD)'
+PRP Radiation_Hardening 'No'
+PRP Reach_SVHC_Compliant 'No'
+PRP RoHS 'Yes'
+PRP RoHS_Compliant 'Yes'
+PRP SERIES 'C'
+PRP Stock_1 '246409'
+PRP Supplier_1 'Mouser'
+PRP Supplier_Part_Number_1 '80-C0603C104K8R'
+PRP Temperature_Coefficient '30ppm/°C'
+PRP Termination 'SMD/SMT'
+PRP Thickness '0.034inch'
+PRP Tolerance '10%'
+PRP value '100nF'
+PRP Voltage '10V'
+PRP Voltage_Rating '10V'
+PRP Voltage_Rating_(DC) '10V'
+PRP Width '0.031inch'
+TOP 0 22.36239876 4.5466 0 N 30 17 1
+TOP 1 23.66240124 4.5466 0 N 35 50 2
+#
+# CMP 19
+CMP 0 10.82707004 1.64439346 270 N C2L C0603C104K8RACTU ;0=1,1=0.0000
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP Case/Package '0603'
+PRP CATEGORY 'Ceramic Capacitors'
+PRP componentlink1description 'https://datasheet.ciiva.com/6093/1776114-6093269.pdf?src-supplier=Farnell'
+PRP componentlink1url 'https://datasheet.ciiva.com/6093/1776114-6093269.pdf?src-supplier=Farnell'
+PRP componentlink2description 'https://datasheet.ciiva.com/7823/kem-c1002-x7r-smd-7823989.pdf?src-supplier=Element14'
+PRP componentlink2url 'https://datasheet.ciiva.com/7823/kem-c1002-x7r-smd-7823989.pdf?src-supplier=Element14'
+PRP ComponentLink3Description 'https://datasheet.ciiva.com/22693/1851736-22693967.pdf?src-supplier=Element14'
+PRP ComponentLink3URL 'https://datasheet.ciiva.com/22693/1851736-22693967.pdf?src-supplier=Element14'
+PRP ComponentLink4Description 'https://datasheet.ciiva.com/14589/70095383-14589402.pdf?src-supplier=Allied+Electronics'
+PRP ComponentLink4URL 'https://datasheet.ciiva.com/14589/70095383-14589402.pdf?src-supplier=Allied+Electronics'
+PRP ComponentLink5Description 'https://datasheet.ciiva.com/14593/70095383-14593978.pdf?src-supplier=Allied+Electronics'
+PRP ComponentLink5URL 'https://datasheet.ciiva.com/14593/70095383-14593978.pdf?src-supplier=Allied+Electronics'
+PRP ComponentLink6Description 'https://datasheet.ciiva.com/5419/kem-c1002-x7r-smd-357932-5419657.pdf?src-supplier=Mouser'
+PRP ComponentLink6URL 'https://datasheet.ciiva.com/5419/kem-c1002-x7r-smd-357932-5419657.pdf?src-supplier=Mouser'
+PRP ComponentLink7Description 'https://datasheet.ciiva.com/18192/getdatasheetpartid-91529-18192711.pdf?src-supplier=Verical'
+PRP ComponentLink7URL 'https://datasheet.ciiva.com/18192/getdatasheetpartid-91529-18192711.pdf?src-supplier=Verical'
+PRP Construction 'Flat'
+PRP Depth '0.8mm'
+PRP Dielectric 'X7R'
+PRP Dielectric_Material 'Ceramic'
+PRP Dissipation_Factor '5%'
+PRP Height '0.8mm'
+PRP Lead_Free '5697LeadFree'
+PRP Lead_Pitch '0.7mm'
+PRP Length '1.6mm'
+PRP MANUFACTURER 'KEMET'
+PRP Manufacturer_Part_Number 'C0603C104K8RACTU'
+PRP Material '4241ConductorMaterial'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'Surface Mount,PCB'
+PRP Package_Quantity '1'
+PRP packaging 'Tape and Reel'
+PRP Pins '2'
+PRP Pricing_1 '1=0.11, 10=0.075, 50=0.075, 100=0.036, 1000=0.021, 10000=0.017 (USD)'
+PRP Radiation_Hardening 'No'
+PRP Reach_SVHC_Compliant 'No'
+PRP RoHS 'Yes'
+PRP RoHS_Compliant 'Yes'
+PRP SERIES 'C'
+PRP Stock_1 '246409'
+PRP Supplier_1 'Mouser'
+PRP Supplier_Part_Number_1 '80-C0603C104K8R'
+PRP Temperature_Coefficient '30ppm/°C'
+PRP Termination 'SMD/SMT'
+PRP Thickness '0.034inch'
+PRP Tolerance '10%'
+PRP value '100nF'
+PRP Voltage '10V'
+PRP Voltage_Rating '10V'
+PRP Voltage_Rating_(DC) '10V'
+PRP Width '0.031inch'
+TOP 0 10.82707004 0.99439222 270 N 30 18 1
+TOP 1 10.82707004 2.2943947 270 N 35 51 2
+#
+# CMP 20
+CMP 11 18.5674 1.8328132 180 N R3L RC0603FR-0710KL ;0=1,1=0.0000
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP Case/Package '0603'
+PRP CATEGORY 'Chip SMD Resistors'
+PRP Construction 'Rectangular'
+PRP Depth '0.8mm'
+PRP Features 'Moisture Resistant'
+PRP Height '0.45mm'
+PRP Lead_Free '5697LeadFree'
+PRP Lead_Pitch '0.3mm'
+PRP Length '1.6mm'
+PRP MANUFACTURER 'Yageo'
+PRP Manufacturer_Part_Number 'RC0603FR-0710KL'
+PRP Max_Operating_Temperature '155°C'
+PRP Max_Power_Dissipation '100mW'
+PRP Military_Standard 'Not'
+PRP Min_Operating_Temperature '-55°C'
+PRP Number_of_Terminations '2'
+PRP packaging 'Tape and Reel'
+PRP Pins '2'
+PRP Power_Rating '100mW'
+PRP Pricing_1 '5000=0.0015, 50000=0.0014, 150000=0.0014, 375000=0.0013, 1000000=0.0012 (USD)'
+PRP Reach_SVHC_Compliant 'No'
+PRP Resistance_Tolerance '1%'
+PRP Resistor_Type 'Thick Film'
+PRP RoHS 'Yes'
+PRP RoHS_Compliant 'Yes'
+PRP SERIES 'RC'
+PRP Stock_1 '44660000'
+PRP Supplier_1 'Future Electronics'
+PRP Supplier_Part_Number_1 '4023214'
+PRP Temperature_Coefficient '100ppm/°C'
+PRP Termination 'SMD/SMT'
+PRP Tolerance '1%'
+PRP value '10kR'
+PRP Voltage_Rating '75V'
+PRP Voltage_Rating_(DC) '50V'
+PRP Weight '7.1E-05oz'
+PRP Width '0.8mm'
+TOP 0 19.31740104 1.8328132 180 N 30 19 1
+TOP 1 17.81739896 1.8328132 180 N 19 2 2
+#
+# CMP 21
+CMP 11 10.82707004 4.1210103 270 N R2L CR0603-FX-2002ELF ;0=1,1=0.0000
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP Case/Package '0603'
+PRP CATEGORY 'Chip SMD Resistors'
+PRP componentlink1description 'https://datasheet.ciiva.com/11809/0900766b80fcdb72-11809666.pdf?src-supplier=Rs'
+PRP componentlink1url 'https://datasheet.ciiva.com/11809/0900766b80fcdb72-11809666.pdf?src-supplier=Rs'
+PRP componentlink2description 'https://datasheet.ciiva.com/9121/chpreztr-9121928.pdf?src-supplier=Avnet'
+PRP componentlink2url 'https://datasheet.ciiva.com/9121/chpreztr-9121928.pdf?src-supplier=Avnet'
+PRP Contact_Plating 'Tin'
+PRP Depth '0.8mm'
+PRP Features 'Moisture Resistant'
+PRP Height '0.45mm'
+PRP Length '1.6mm'
+PRP MANUFACTURER 'Bourns'
+PRP Manufacturer_Part_Number 'CR0603-FX-2002ELF'
+PRP Max_Operating_Temperature '155°C'
+PRP Max_Power_Dissipation '100mW'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'Surface Mount'
+PRP Number_of_Terminations '2'
+PRP Package_Quantity '1'
+PRP packaging 'Tape and Reel'
+PRP Power_Rating '100mW'
+PRP Pricing_1 '20000=0.0014, 40000=0.0013, 80000=0.0013, 160000=0.0012 (USD)'
+PRP Radiation_Hardening 'No'
+PRP Reach_SVHC_Compliant 'No'
+PRP Resistance_Tolerance '1%'
+PRP Resistor_Type 'Thick Film'
+PRP RoHS 'Yes'
+PRP RoHS_Compliant 'Yes'
+PRP SERIES 'CR0603'
+PRP Stock_1 '20000'
+PRP Supplier_1 'Onlinecomponents.com'
+PRP Supplier_Part_Number_1 'CR0603-FX-2002ELF'
+PRP Technology 'THICK FILM'
+PRP Temperature_Coefficient '100ppm/°C'
+PRP Termination 'SMD/SMT'
+PRP Thickness '457um'
+PRP Tolerance '1%'
+PRP value '20kR'
+PRP Voltage_Rating '50V'
+PRP Voltage_Rating_(DC) '50V'
+PRP Width '0.8mm'
+TOP 0 10.82707004 3.37100926 270 N 17 4 1
+TOP 1 10.82707004 4.87101134 270 N 35 52 2
+#
+# CMP 22
+CMP 11 12.4139706 6.24225066 180 N R0L MCR03EZPFX1691 ;0=1,1=0.0000
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP Case/Package '0603'
+PRP CATEGORY 'Chip SMD Resistors'
+PRP componentlink1description 'http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/mcr.pdf?src-supplier=Avnet'
+PRP componentlink1url 'http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/mcr.pdf?src-supplier=Avnet'
+PRP componentlink2description 'http://www.rohm.com/web/global/datasheet/MCR03EZPFX/mcr-e?src-supplier=Digikey'
+PRP componentlink2url 'http://www.rohm.com/web/global/datasheet/MCR03EZPFX/mcr-e?src-supplier=Digikey'
+PRP Features 'Automotive AEC-Q200'
+PRP Height '0.022inch'
+PRP Lead_Free 'Lead Free'
+PRP Length '0.063inch'
+PRP MANUFACTURER 'Rohm'
+PRP Manufacturer_Part_Number 'MCR03EZPFX1691'
+PRP Max_Operating_Temperature '155°C'
+PRP Max_Power_Dissipation '100mW'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'Surface Mount'
+PRP Number_of_Terminations '2'
+PRP Package_Quantity '1'
+PRP packaging 'Cut Tape'
+PRP Power_Rating '100mW'
+PRP Pricing_1 '1=0.0232, 217=0.0145, 1380=0.0087, 5748=0.0044 (USD)'
+PRP RoHS 'Yes'
+PRP RoHS_Compliant 'Yes'
+PRP SERIES 'MCR03'
+PRP Stock_1 '11347'
+PRP Supplier_1 'Quest'
+PRP Supplier_Part_Number_1 'MCR03EZPFX1691'
+PRP Temperature_Coefficient '100ppm/°C'
+PRP Tolerance '1%'
+PRP value '1.69kR'
+PRP Voltage_Rating_(DC) '50V'
+PRP Width '0.031inch'
+TOP 0 13.16397164 6.24225066 180 N 34 51 1
+TOP 1 11.66396956 6.24225066 180 N 18 2 2
+#
+# CMP 23
+CMP 1 20.4724 12.62699786 0 N C5U CL10A475KP8NNNC ;0=1,1=0.0000
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP Case/Package '0603'
+PRP CATEGORY 'Ceramic Capacitors'
+PRP Construction 'Flat'
+PRP Depth '0.8mm'
+PRP Dielectric 'X5R'
+PRP Height '0.8mm'
+PRP Length '1.6mm'
+PRP MANUFACTURER 'Samsung'
+PRP Manufacturer_Part_Number 'CL10A475KP8NNNC'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'Surface Mount'
+PRP Package_Quantity '1'
+PRP packaging 'Tape and Reel'
+PRP Pricing_1 '4000=0.0042 (USD)'
+PRP Radiation_Hardening 'No'
+PRP RoHS 'Yes'
+PRP RoHS_Compliant 'Yes'
+PRP SERIES 'CL'
+PRP Stock_1 '412000'
+PRP Supplier_1 'Verical'
+PRP Supplier_Part_Number_1 'CL10A475KP8NNNC'
+PRP Thickness '0.035inch'
+PRP Tolerance '10%'
+PRP value '4.7uF'
+PRP Voltage_Rating '10V'
+PRP Voltage_Rating_(DC) '10V'
+PRP Width '0.031inch'
+TOP 0 19.72240658 12.62699786 0 N 16 2 1
+TOP 1 21.22239342 12.62699786 0 N 35 63 2
+#
+# CMP 24
+CMP 0 20.3962 3.32044294 180 N C3U KGM15AR70J104KM ;0=1,1=0.0000
+PRP CATEGORY 'Ceramic Capacitors'
+PRP MANUFACTURER 'KYOCERA AVX'
+PRP Manufacturer_Part_Number 'KGM15AR70J104KM'
+PRP Package '0603'
+PRP Pricing_1 '1=0.1, 10=0.032, 50=0.0186, 100=0.0144, 500=0.01082, 1000=0.0085, 2500=0.00772, 5000=0.00711 (USD)'
+PRP Stock_1 '117167'
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 '478-KGM15AR70J104KMCT-ND'
+PRP Tol '10%'
+PRP value '100nF'
+PRP Voltage '6.3V'
+TOP 0 21.04620124 3.32044294 180 N 34 52 1
+TOP 1 19.74619876 3.32044294 180 N 35 53 2
+#
+# CMP 25
+CMP 10 7.30000064 15.59999928 270 N J2C 2X09 ;0=2,1=0.0000
+TOP 0 7.30000064 15.59999928 270 N 22 8 1
+TOP 1 7.30000064 18.13999928 270 N 6 11 2
+TOP 2 9.84000064 15.59999928 270 N 20 5 3
+TOP 3 9.84000064 18.13999928 270 N 7 13 4
+TOP 4 12.38000064 15.59999928 270 N 21 8 5
+TOP 5 12.38000064 18.13999928 270 N 13 3 6
+TOP 6 14.92000064 15.59999928 270 N 35 71 7
+TOP 7 14.92000064 18.13999928 270 N 12 3 8
+TOP 8 17.46000064 15.59999928 270 N 35 72 9
+TOP 9 17.46000064 18.13999928 270 N 35 73 10
+TOP 10 20.00000064 15.59999928 270 N 34 62 11
+TOP 11 20.00000064 18.13999928 270 N 11 3 12
+TOP 12 22.54000064 15.59999928 270 N 34 63 13
+TOP 13 22.54000064 18.13999928 270 N 10 3 14
+TOP 14 25.08000064 15.59999928 270 N 30 26 15
+TOP 15 25.08000064 18.13999928 270 N 9 3 16
+TOP 16 27.62000064 15.59999928 270 N 30 27 17
+TOP 17 27.62000064 18.13999928 270 N 8 3 18
+#
+# CMP 26
+CMP 11 17.8816 12.6270004 180 N R2U RC0603FR-0710KL ;0=1,1=0.0000
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP Case/Package '0603'
+PRP CATEGORY 'Chip SMD Resistors'
+PRP Construction 'Rectangular'
+PRP Depth '0.8mm'
+PRP Features 'Moisture Resistant'
+PRP Height '0.45mm'
+PRP Lead_Free '5697LeadFree'
+PRP Lead_Pitch '0.3mm'
+PRP Length '1.6mm'
+PRP MANUFACTURER 'Yageo'
+PRP Manufacturer_Part_Number 'RC0603FR-0710KL'
+PRP Max_Operating_Temperature '155°C'
+PRP Max_Power_Dissipation '100mW'
+PRP Military_Standard 'Not'
+PRP Min_Operating_Temperature '-55°C'
+PRP Number_of_Terminations '2'
+PRP packaging 'Tape and Reel'
+PRP Pins '2'
+PRP Power_Rating '100mW'
+PRP Pricing_1 '5000=0.0015, 50000=0.0014, 150000=0.0014, 375000=0.0013, 1000000=0.0012 (USD)'
+PRP Reach_SVHC_Compliant 'No'
+PRP Resistance_Tolerance '1%'
+PRP Resistor_Type 'Thick Film'
+PRP RoHS 'Yes'
+PRP RoHS_Compliant 'Yes'
+PRP SERIES 'RC'
+PRP Stock_1 '44660000'
+PRP Supplier_1 'Future Electronics'
+PRP Supplier_Part_Number_1 '4023214'
+PRP Temperature_Coefficient '100ppm/°C'
+PRP Termination 'SMD/SMT'
+PRP Tolerance '1%'
+PRP value '10kR'
+PRP Voltage_Rating '75V'
+PRP Voltage_Rating_(DC) '50V'
+PRP Weight '7.1E-05oz'
+PRP Width '0.8mm'
+TOP 0 18.63160104 12.6270004 180 N 21 6 1
+TOP 1 17.13159896 12.6270004 180 N 35 54 2
+#
+# CMP 27
+CMP 11 25.6794 7.64540254 180 N R1U RC0603FR-0710KL ;0=1,1=0.0000
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP Case/Package '0603'
+PRP CATEGORY 'Chip SMD Resistors'
+PRP Construction 'Rectangular'
+PRP Depth '0.8mm'
+PRP Features 'Moisture Resistant'
+PRP Height '0.45mm'
+PRP Lead_Free '5697LeadFree'
+PRP Lead_Pitch '0.3mm'
+PRP Length '1.6mm'
+PRP MANUFACTURER 'Yageo'
+PRP Manufacturer_Part_Number 'RC0603FR-0710KL'
+PRP Max_Operating_Temperature '155°C'
+PRP Max_Power_Dissipation '100mW'
+PRP Military_Standard 'Not'
+PRP Min_Operating_Temperature '-55°C'
+PRP Number_of_Terminations '2'
+PRP packaging 'Tape and Reel'
+PRP Pins '2'
+PRP Power_Rating '100mW'
+PRP Pricing_1 '5000=0.0015, 50000=0.0014, 150000=0.0014, 375000=0.0013, 1000000=0.0012 (USD)'
+PRP Reach_SVHC_Compliant 'No'
+PRP Resistance_Tolerance '1%'
+PRP Resistor_Type 'Thick Film'
+PRP RoHS 'Yes'
+PRP RoHS_Compliant 'Yes'
+PRP SERIES 'RC'
+PRP Stock_1 '44660000'
+PRP Supplier_1 'Future Electronics'
+PRP Supplier_Part_Number_1 '4023214'
+PRP Temperature_Coefficient '100ppm/°C'
+PRP Termination 'SMD/SMT'
+PRP Tolerance '1%'
+PRP value '10kR'
+PRP Voltage_Rating '75V'
+PRP Voltage_Rating_(DC) '50V'
+PRP Weight '7.1E-05oz'
+PRP Width '0.8mm'
+TOP 0 26.42940104 7.64540254 180 N 34 53 1
+TOP 1 24.92939896 7.64540254 180 N 22 6 2
+#
+# CMP 28
+CMP 9 43.4848 10.0838 0 N J3C 2X04 ;0=2,1=0.0000
+TOP 0 43.4848 10.0838 0 N 25 16 1
+TOP 1 46.0248 10.0838 0 N 25 17 2
+TOP 2 43.4848 7.5438 0 N 1 26 3
+TOP 3 46.0248 7.5438 0 N 1 27 4
+TOP 4 43.4848 5.0038 0 N 4 7 5
+TOP 5 46.0248 5.0038 0 N 5 8 6
+TOP 6 43.4848 2.4638 0 N 5 7 7
+TOP 7 46.0248 2.4638 0 N 4 8 8
+#
+# CMP 29
+CMP 11 25.7048 8.83920254 180 N R4L MCR03EZPFX2491 ;0=1,1=0.0000
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP Case/Package '0603'
+PRP CATEGORY 'Chip SMD Resistors'
+PRP componentlink1description 'https://datasheet.ciiva.com/2520/mcr-2520347.pdf?src-supplier=Digikey'
+PRP componentlink1url 'https://datasheet.ciiva.com/2520/mcr-2520347.pdf?src-supplier=Digikey'
+PRP componentlink2description 'https://datasheet.ciiva.com/2520/mcr-2520348.pdf?src-supplier=Digikey'
+PRP componentlink2url 'https://datasheet.ciiva.com/2520/mcr-2520348.pdf?src-supplier=Digikey'
+PRP ComponentLink3Description 'https://datasheet.ciiva.com/2520/mcr-2520349.pdf?src-supplier=Digikey'
+PRP ComponentLink3URL 'https://datasheet.ciiva.com/2520/mcr-2520349.pdf?src-supplier=Digikey'
+PRP ComponentLink4Description 'https://datasheet.ciiva.com/16203/mcr03ezpd-16203167.pdf?src-supplier=Future+Electronics'
+PRP ComponentLink4URL 'https://datasheet.ciiva.com/16203/mcr03ezpd-16203167.pdf?src-supplier=Future+Electronics'
+PRP Contact_Plating 'Tin'
+PRP Features 'Automotive AEC-Q200'
+PRP Height '0.022inch'
+PRP Lead_Free 'Lead Free'
+PRP Length '0.063inch'
+PRP MANUFACTURER 'Rohm'
+PRP Manufacturer_Part_Number 'MCR03EZPFX2491'
+PRP Max_Operating_Temperature '155°C'
+PRP Max_Power_Dissipation '100mW'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'Surface Mount'
+PRP Number_of_Terminations '2'
+PRP Package_Quantity '1'
+PRP packaging 'Cut Tape'
+PRP Power_Rating '100mW'
+PRP Pricing_1 '1=0.036, 10=0.031, 100=0.031, 1000=0.028 (USD)'
+PRP RoHS 'Yes'
+PRP RoHS_Compliant 'Yes'
+PRP SERIES 'MCR03'
+PRP Stock_1 '683'
+PRP Supplier_1 'One Stop Electro'
+PRP Supplier_Part_Number_1 '53268691'
+PRP Temperature_Coefficient '100ppm/°C'
+PRP Tolerance '1%'
+PRP value '2.49kR'
+PRP Voltage_Rating_(DC) '50V'
+PRP Width '0.031inch'
+TOP 0 26.45480104 8.83920254 180 N 23 2 1
+TOP 1 24.95479896 8.83920254 180 N 35 55 2
+#
+# CMP 30
+CMP 11 12.26076542 4.12101284 90 N R1L ERJ-3EKF3302V ;0=1,1=0.0000
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP Case/Package '0603'
+PRP CATEGORY 'Chip SMD Resistors'
+PRP Construction 'Rectangular'
+PRP Contact_Plating 'Tin'
+PRP Depth '0.8mm'
+PRP Features 'Automotive AEC-Q200'
+PRP Height '0.022inch'
+PRP Lead_Free '5697LeadFree'
+PRP Length '1.6mm'
+PRP MANUFACTURER 'Panasonic'
+PRP Manufacturer_Part_Number 'ERJ-3EKF3302V'
+PRP Max_Operating_Temperature '155°C'
+PRP Max_Power_Dissipation '100mW'
+PRP Military_Standard 'Not'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'Surface Mount'
+PRP Number_of_Terminations '2'
+PRP Package_Quantity '1'
+PRP packaging 'Tape and Reel'
+PRP Pins '2'
+PRP Power_Rating '100mW'
+PRP Pricing_1 '5000=0.0041, 10000=0.0039, 20000=0.0037, 40000=0.0036, 50000=0.0035 (USD)'
+PRP Radiation_Hardening 'No'
+PRP Reach_SVHC_Compliant 'No'
+PRP Resistance_Tolerance '1%'
+PRP Resistor_Type 'Thick Film'
+PRP RoHS 'Yes'
+PRP RoHS_Compliant 'Yes'
+PRP SERIES 'ERJ'
+PRP Stock_1 '350000'
+PRP Supplier_1 'Onlinecomponents.com'
+PRP Supplier_Part_Number_1 'ERJ3EKF3302V'
+PRP Temperature_Coefficient '100ppm/°C'
+PRP Termination 'SMD/SMT'
+PRP Tolerance '1%'
+PRP value '33kR'
+PRP Voltage_Rating '75V'
+PRP Voltage_Rating_(DC) '75V'
+PRP Width '0.8mm'
+TOP 0 12.26076542 4.87101388 90 N 18 3 1
+TOP 1 12.26076542 3.3710118 90 N 17 5 2
+#
+# CMP 31
+CMP 7 28.3718 11.869801 270 N D1L YELLOW ;0=1,1=0.0000
+TOP 0 28.3718 11.1198025 270 N 23 3 1
+TOP 1 28.3718 12.61980204 270 N 34 57 2
+#
+# CMP 32
+CMP 0 11.54376406 11.87758356 180 N C1P C0603C104K8RACTU ;0=1,1=0.0000
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP Case/Package '0603'
+PRP CATEGORY 'Ceramic Capacitors'
+PRP componentlink1description 'https://datasheet.ciiva.com/6093/1776114-6093269.pdf?src-supplier=Farnell'
+PRP componentlink1url 'https://datasheet.ciiva.com/6093/1776114-6093269.pdf?src-supplier=Farnell'
+PRP componentlink2description 'https://datasheet.ciiva.com/7823/kem-c1002-x7r-smd-7823989.pdf?src-supplier=Element14'
+PRP componentlink2url 'https://datasheet.ciiva.com/7823/kem-c1002-x7r-smd-7823989.pdf?src-supplier=Element14'
+PRP ComponentLink3Description 'https://datasheet.ciiva.com/22693/1851736-22693967.pdf?src-supplier=Element14'
+PRP ComponentLink3URL 'https://datasheet.ciiva.com/22693/1851736-22693967.pdf?src-supplier=Element14'
+PRP ComponentLink4Description 'https://datasheet.ciiva.com/14589/70095383-14589402.pdf?src-supplier=Allied+Electronics'
+PRP ComponentLink4URL 'https://datasheet.ciiva.com/14589/70095383-14589402.pdf?src-supplier=Allied+Electronics'
+PRP ComponentLink5Description 'https://datasheet.ciiva.com/14593/70095383-14593978.pdf?src-supplier=Allied+Electronics'
+PRP ComponentLink5URL 'https://datasheet.ciiva.com/14593/70095383-14593978.pdf?src-supplier=Allied+Electronics'
+PRP ComponentLink6Description 'https://datasheet.ciiva.com/5419/kem-c1002-x7r-smd-357932-5419657.pdf?src-supplier=Mouser'
+PRP ComponentLink6URL 'https://datasheet.ciiva.com/5419/kem-c1002-x7r-smd-357932-5419657.pdf?src-supplier=Mouser'
+PRP ComponentLink7Description 'https://datasheet.ciiva.com/18192/getdatasheetpartid-91529-18192711.pdf?src-supplier=Verical'
+PRP ComponentLink7URL 'https://datasheet.ciiva.com/18192/getdatasheetpartid-91529-18192711.pdf?src-supplier=Verical'
+PRP Construction 'Flat'
+PRP Depth '0.8mm'
+PRP Dielectric 'X7R'
+PRP Dielectric_Material 'Ceramic'
+PRP Dissipation_Factor '5%'
+PRP Height '0.8mm'
+PRP Lead_Free '5697LeadFree'
+PRP Lead_Pitch '0.7mm'
+PRP Length '1.6mm'
+PRP MANUFACTURER 'KEMET'
+PRP Manufacturer_Part_Number 'C0603C104K8RACTU'
+PRP Material '4241ConductorMaterial'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'Surface Mount,PCB'
+PRP Package_Quantity '1'
+PRP packaging 'Tape and Reel'
+PRP Pins '2'
+PRP Pricing_1 '1=0.11, 10=0.075, 50=0.075, 100=0.036, 1000=0.021, 10000=0.017 (USD)'
+PRP Radiation_Hardening 'No'
+PRP Reach_SVHC_Compliant 'No'
+PRP RoHS 'Yes'
+PRP RoHS_Compliant 'Yes'
+PRP SERIES 'C'
+PRP Stock_1 '246409'
+PRP Supplier_1 'Mouser'
+PRP Supplier_Part_Number_1 '80-C0603C104K8R'
+PRP Temperature_Coefficient '30ppm/°C'
+PRP Termination 'SMD/SMT'
+PRP Thickness '0.034inch'
+PRP Tolerance '10%'
+PRP value '100nF'
+PRP Voltage '10V'
+PRP Voltage_Rating '10V'
+PRP Voltage_Rating_(DC) '10V'
+PRP Width '0.031inch'
+TOP 0 12.1937653 11.87758356 180 N 28 39 1
+TOP 1 10.89376282 11.87758356 180 N 35 56 2
+#
+# CMP 33
+CMP 12 4.93813592 1.87169552 270 N ZD1P MM3Z12VST1G ;0=1,1=0.8000
+PRP Case/Package 'SOD-323-2'
+PRP CATEGORY 'Zener Diodes'
+PRP componentlink1description 'https://datasheet.ciiva.com/30478/0900766b8127c8bd-30478408.pdf?src-supplier=Rs'
+PRP componentlink1url 'https://datasheet.ciiva.com/30478/0900766b8127c8bd-30478408.pdf?src-supplier=Rs'
+PRP componentlink2description 'https://datasheet.ciiva.com/16292/mm3z12vst1g-16292931.pdf?src-supplier=Future+Electronics'
+PRP componentlink2url 'https://datasheet.ciiva.com/16292/mm3z12vst1g-16292931.pdf?src-supplier=Future+Electronics'
+PRP ComponentLink3Description 'https://datasheet.ciiva.com/22626/1878251-22626885.pdf?src-supplier=Element14'
+PRP ComponentLink3URL 'https://datasheet.ciiva.com/22626/1878251-22626885.pdf?src-supplier=Element14'
+PRP ComponentLink4Description 'https://datasheet.ciiva.com/894/mm3z2v4st1-d-894650.pdf?src-supplier=Digikey'
+PRP ComponentLink4URL 'https://datasheet.ciiva.com/894/mm3z2v4st1-d-894650.pdf?src-supplier=Digikey'
+PRP ComponentLink5Description 'https://datasheet.ciiva.com/894/mm3z2v4st1-d-894651.pdf?src-supplier=Digikey'
+PRP ComponentLink5URL 'https://datasheet.ciiva.com/894/mm3z2v4st1-d-894651.pdf?src-supplier=Digikey'
+PRP ComponentLink6Description 'https://datasheet.ciiva.com/894/mm3z2v4st1-d-894649.pdf?src-supplier=Digikey'
+PRP ComponentLink6URL 'https://datasheet.ciiva.com/894/mm3z2v4st1-d-894649.pdf?src-supplier=Digikey'
+PRP Forward_Voltage '900mV'
+PRP Height '1mm'
+PRP Impedance '25R'
+PRP Lead_Free 'Lead Free'
+PRP Length '1.8mm'
+PRP MANUFACTURER 'ON Semiconductor'
+PRP Manufacturer_Part_Number 'MM3Z12VST1G'
+PRP Material 'Plastic'
+PRP Max_Operating_Temperature '150°C'
+PRP Max_Power_Dissipation '300mW'
+PRP Max_Reverse_Current '100nA'
+PRP Max_Reverse_Leakage_Current '100nA'
+PRP Min_Operating_Temperature '-65°C'
+PRP Package_Quantity '3000'
+PRP packaging 'Tape and Reel'
+PRP Pins '2'
+PRP Power_Dissipation '200mW'
+PRP Power_Rating '200mW'
+PRP Pricing_1 '3000=0.0152, 6000=0.0145, 9000=0.0143, 27000=0.0137, 51000=0.0133, 102000=0.0128, 252000=0.0125, 501000=0.0123 (USD)'
+PRP Radiation_Hardening 'No'
+PRP Reach_SVHC_Compliant 'No'
+PRP RoHS 'Yes'
+PRP RoHS_Compliant 'Yes'
+PRP SERIES '-'
+PRP Stock_1 '60000'
+PRP Supplier_1 'Onlinecomponents.com'
+PRP Supplier_Part_Number_1 'MM3Z12VST1G'
+PRP Test_Current '5mA'
+PRP Tolerance '2%'
+PRP Voltage_Rating_(DC) '12V'
+PRP Voltage_Tolerance '2%'
+PRP Width '1.35mm'
+PRP Working_Voltage '12V'
+PRP Zener_Current '10mA'
+PRP Zener_Voltage '12V'
+TOP 0 4.93813592 2.9841952 180 N 29 4 1
+TOP 1 4.93813592 0.75919584 180 N 31 4 2
+#
+# CMP 34
+CMP 13 31.9999995 3.99999962 0 N U1I ADUM1252AWA+ ;0=1,1=2.1600
+PRP MANUFACTURER 'Analog Devices'
+PRP Manufacturer_Part_Number 'ADUM1252AWA+'
+PRP Pricing_1 '1=4.29, 10=3.85, 50=3.85, 100=3.15, 1000=2.68, 10000=2.14 (USD)'
+PRP RoHS 'No'
+PRP Stock_1 '216'
+PRP Supplier_1 'Mouser'
+PRP Supplier_Part_Number_1 '584-ADUM1252AWA+'
+TOP 0 28.34999918 5.90499962 270 N 34 58 1
+TOP 1 28.34999918 4.63499962 270 N 6 9 2
+TOP 2 28.34999918 3.36499962 270 N 7 11 3
+TOP 3 28.34999918 2.09499962 270 N 35 64 4
+TOP 4 35.64999982 2.09499962 270 N 25 15 5
+TOP 5 35.64999982 3.36499962 270 N 5 6 6
+TOP 6 35.64999982 4.63499962 270 N 4 6 7
+TOP 7 35.64999982 5.90499962 270 N 24 7 8
+#
+# CMP 35
+CMP 15 15.35608562 3.0828107 270 N U1L SGM2019-ADJYN5G/TR ;0=1,1=1.0000
+PRP CATEGORY 'LDO'
+PRP MANUFACTURER 'SG Micro'
+PRP Manufacturer_Part_Number 'SGM2019-ADJYN5G/TR'
+PRP RoHS 'No'
+PRP Stock_1 '6915'
+PRP Supplier_1 'Sourcengine'
+PRP Supplier_Part_Number_1 'SGM2019-ADJYN5GTR-112944978'
+TOP 0 14.40608498 1.83281066 180 N 30 23 1
+TOP 1 15.35608562 1.83281066 180 N 35 66 2
+TOP 2 16.30608372 1.83281066 180 N 19 3 3
+TOP 3 16.30608372 4.33281074 180 N 17 6 4
+TOP 4 14.40608498 4.33281074 180 N 34 59 5
+#
+# CMP 36
+CMP 11 9.90840538 13.24382924 180 N R2C CRCW06035K10FKEA ;0=1,1=0.0000
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP Case/Package '0603'
+PRP CATEGORY 'Chip SMD Resistors'
+PRP componentlink1description 'https://datasheet.ciiva.com/11809/0900766b80d98afc-11809935.pdf?src-supplier=Rs'
+PRP componentlink1url 'https://datasheet.ciiva.com/11809/0900766b80d98afc-11809935.pdf?src-supplier=Rs'
+PRP componentlink2description 'https://datasheet.ciiva.com/7690/1720486-7690873.pdf?src-supplier=Element14'
+PRP componentlink2url 'https://datasheet.ciiva.com/7690/1720486-7690873.pdf?src-supplier=Element14'
+PRP ComponentLink3Description 'https://datasheet.ciiva.com/15159/getdatasheetpartid-32793-15159338.pdf?src-supplier=Verical'
+PRP ComponentLink3URL 'https://datasheet.ciiva.com/15159/getdatasheetpartid-32793-15159338.pdf?src-supplier=Verical'
+PRP ComponentLink4Description 'https://datasheet.ciiva.com/26314/fld-crcw-e3-data-en-26314742.pdf?src-supplier=Distrelec'
+PRP ComponentLink4URL 'https://datasheet.ciiva.com/26314/fld-crcw-e3-data-en-26314742.pdf?src-supplier=Distrelec'
+PRP ComponentLink5Description 'https://datasheet.ciiva.com/7690/1697337-7690728.pdf?src-supplier=Element14'
+PRP ComponentLink5URL 'https://datasheet.ciiva.com/7690/1697337-7690728.pdf?src-supplier=Element14'
+PRP ComponentLink6Description 'https://datasheet.ciiva.com/3257/dcrcwe3-3257758.pdf?src-supplier=Avnet'
+PRP ComponentLink6URL 'https://datasheet.ciiva.com/3257/dcrcwe3-3257758.pdf?src-supplier=Avnet'
+PRP ComponentLink7Description 'https://datasheet.ciiva.com/16226/dcrcwe3-16226862.pdf?src-supplier=Future+Electronics'
+PRP ComponentLink7URL 'https://datasheet.ciiva.com/16226/dcrcwe3-16226862.pdf?src-supplier=Future+Electronics'
+PRP Construction 'Rectangular'
+PRP Contact_Plating 'Tin'
+PRP Depth '0.85mm'
+PRP Features 'Automotive AEC-Q200'
+PRP Height '0.45mm'
+PRP Lead_Free '5697LeadFree'
+PRP Length '1.55mm'
+PRP MANUFACTURER 'Vishay'
+PRP Manufacturer_Part_Number 'CRCW06035K10FKEA'
+PRP Max_Operating_Temperature '155°C'
+PRP Max_Power_Dissipation '100mW'
+PRP Military_Standard 'Not'
+PRP Min_Operating_Temperature '-55°C'
+PRP Number_of_Terminations '2'
+PRP Package_Quantity '5000'
+PRP packaging 'Tape and Reel'
+PRP Power_Rating '100mW'
+PRP Pricing_1 '1=0.1, 10=0.034, 50=0.034, 100=0.014, 1000=0.008, 10000=0.004 (USD)'
+PRP Radiation_Hardening 'No'
+PRP Reach_SVHC_Compliant 'Unknown'
+PRP Resistance_Tolerance '1%'
+PRP Resistor_Type 'Thick Film'
+PRP RoHS 'Yes'
+PRP RoHS_Compliant 'Yes'
+PRP SERIES 'CRCW'
+PRP Stock_1 '43654'
+PRP Supplier_1 'Mouser'
+PRP Supplier_Part_Number_1 '71-CRCW0603-5.1K-E3'
+PRP Technology 'THICK FILM'
+PRP Temperature_Coefficient '100ppm/°C'
+PRP Termination 'SMD/SMT'
+PRP Tolerance '1%'
+PRP value '5.1kR'
+PRP Voltage_Rating '75V'
+PRP Voltage_Rating_(DC) '75V'
+PRP Weight '7.1E-05oz'
+PRP Width '0.85mm'
+TOP 0 10.65840642 13.24382924 180 N 33 2 1
+TOP 1 9.15840434 13.24382924 180 N 35 57 2
+#
+# CMP 37
+CMP 11 6.56963126 1.63832794 270 N R1P AC0603FR-07100KL ;0=1,1=0.0000
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP Case/Package '0603'
+PRP CATEGORY 'Chip SMD Resistors'
+PRP componentlink1description 'https://datasheet.ciiva.com/26862/getdatasheetpartid-715379-26862460.pdf?src-supplier=Verical'
+PRP componentlink1url 'https://datasheet.ciiva.com/26862/getdatasheetpartid-715379-26862460.pdf?src-supplier=Verical'
+PRP componentlink2description 'https://datasheet.ciiva.com/5562/pyu-ac-51-rohs-l-2-5562536.pdf?src-supplier=Mouser'
+PRP componentlink2url 'https://datasheet.ciiva.com/5562/pyu-ac-51-rohs-l-2-5562536.pdf?src-supplier=Mouser'
+PRP Construction 'Rectangular'
+PRP Depth '0.8mm'
+PRP Features 'Moisture Resistant,Automotive AEC-Q200'
+PRP Lead_Free '5697LeadFree'
+PRP Length '1.6mm'
+PRP MANUFACTURER 'Yageo'
+PRP Manufacturer_Part_Number 'AC0603FR-07100KL'
+PRP Max_Operating_Temperature '155°C'
+PRP Max_Power_Dissipation '100mW'
+PRP Military_Standard 'Not'
+PRP Min_Operating_Temperature '-55°C'
+PRP Moisture_Sensitivity_Level '1'
+PRP Number_of_Terminations '2'
+PRP packaging 'Tape and Reel'
+PRP Power_Rating '100mW'
+PRP Pricing_1 '5000=0.0034, 25000=0.0018, 75000=0.0032, 125000=0.0017, 250000=0.0031, 750000=0.003, 2500000=0.0027 (USD)'
+PRP Ratings 'AEC-Q200'
+PRP RoHS 'Yes'
+PRP RoHS_Compliant 'Yes'
+PRP SERIES 'AC'
+PRP Stock_1 '3790000'
+PRP Supplier_1 'Future Electronics'
+PRP Supplier_Part_Number_1 '6029288'
+PRP Technology 'THICK FILM'
+PRP Temperature_Coefficient '100ppm/°C'
+PRP Termination 'SMD/SMT'
+PRP Tolerance '1%'
+PRP value '100kR'
+PRP Voltage_Rating '50V'
+PRP Working_Voltage '75V'
+TOP 0 6.56963126 0.8883269 270 N 31 5 1
+TOP 1 6.56963126 2.38832898 270 N 35 58 2
+#
+# CMP 38
+CMP 11 9.42372004 4.12101284 90 N R1C CRCW06035K10FKEA ;0=1,1=0.0000
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP Case/Package '0603'
+PRP CATEGORY 'Chip SMD Resistors'
+PRP componentlink1description 'https://datasheet.ciiva.com/11809/0900766b80d98afc-11809935.pdf?src-supplier=Rs'
+PRP componentlink1url 'https://datasheet.ciiva.com/11809/0900766b80d98afc-11809935.pdf?src-supplier=Rs'
+PRP componentlink2description 'https://datasheet.ciiva.com/7690/1720486-7690873.pdf?src-supplier=Element14'
+PRP componentlink2url 'https://datasheet.ciiva.com/7690/1720486-7690873.pdf?src-supplier=Element14'
+PRP ComponentLink3Description 'https://datasheet.ciiva.com/15159/getdatasheetpartid-32793-15159338.pdf?src-supplier=Verical'
+PRP ComponentLink3URL 'https://datasheet.ciiva.com/15159/getdatasheetpartid-32793-15159338.pdf?src-supplier=Verical'
+PRP ComponentLink4Description 'https://datasheet.ciiva.com/26314/fld-crcw-e3-data-en-26314742.pdf?src-supplier=Distrelec'
+PRP ComponentLink4URL 'https://datasheet.ciiva.com/26314/fld-crcw-e3-data-en-26314742.pdf?src-supplier=Distrelec'
+PRP ComponentLink5Description 'https://datasheet.ciiva.com/7690/1697337-7690728.pdf?src-supplier=Element14'
+PRP ComponentLink5URL 'https://datasheet.ciiva.com/7690/1697337-7690728.pdf?src-supplier=Element14'
+PRP ComponentLink6Description 'https://datasheet.ciiva.com/3257/dcrcwe3-3257758.pdf?src-supplier=Avnet'
+PRP ComponentLink6URL 'https://datasheet.ciiva.com/3257/dcrcwe3-3257758.pdf?src-supplier=Avnet'
+PRP ComponentLink7Description 'https://datasheet.ciiva.com/16226/dcrcwe3-16226862.pdf?src-supplier=Future+Electronics'
+PRP ComponentLink7URL 'https://datasheet.ciiva.com/16226/dcrcwe3-16226862.pdf?src-supplier=Future+Electronics'
+PRP Construction 'Rectangular'
+PRP Contact_Plating 'Tin'
+PRP Depth '0.85mm'
+PRP Features 'Automotive AEC-Q200'
+PRP Height '0.45mm'
+PRP Lead_Free '5697LeadFree'
+PRP Length '1.55mm'
+PRP MANUFACTURER 'Vishay'
+PRP Manufacturer_Part_Number 'CRCW06035K10FKEA'
+PRP Max_Operating_Temperature '155°C'
+PRP Max_Power_Dissipation '100mW'
+PRP Military_Standard 'Not'
+PRP Min_Operating_Temperature '-55°C'
+PRP Number_of_Terminations '2'
+PRP Package_Quantity '5000'
+PRP packaging 'Tape and Reel'
+PRP Power_Rating '100mW'
+PRP Pricing_1 '1=0.1, 10=0.034, 50=0.034, 100=0.014, 1000=0.008, 10000=0.004 (USD)'
+PRP Radiation_Hardening 'No'
+PRP Reach_SVHC_Compliant 'Unknown'
+PRP Resistance_Tolerance '1%'
+PRP Resistor_Type 'Thick Film'
+PRP RoHS 'Yes'
+PRP RoHS_Compliant 'Yes'
+PRP SERIES 'CRCW'
+PRP Stock_1 '43654'
+PRP Supplier_1 'Mouser'
+PRP Supplier_Part_Number_1 '71-CRCW0603-5.1K-E3'
+PRP Technology 'THICK FILM'
+PRP Temperature_Coefficient '100ppm/°C'
+PRP Termination 'SMD/SMT'
+PRP Tolerance '1%'
+PRP value '5.1kR'
+PRP Voltage_Rating '75V'
+PRP Voltage_Rating_(DC) '75V'
+PRP Weight '7.1E-05oz'
+PRP Width '0.85mm'
+TOP 0 9.42372004 4.87101388 90 N 32 2 1
+TOP 1 9.42372004 3.3710118 90 N 35 59 2
+#
+# CMP 39
+CMP 4 2.54255016 2.2298533 270 N Q1P PMPB14XPZ ;0=1,1=0.0000
+PRP MANUFACTURER 'Nexperia'
+PRP Manufacturer_Part_Number 'PMPB14XPZ'
+PRP RoHS 'No'
+PRP Stock_1 '3000'
+PRP Supplier_1 'Element14'
+PRP Supplier_Part_Number_1 '4177131'
+TOP 0 1.89254892 1.2948539 270 N 28 40 1-2-5-6-7
+TOP 1 1.89254892 3.1648527 270 N 28 41 1-2-5-6-7
+TOP 2 2.25754946 2.2298533 270 N 28 42 1-2-5-6-7
+TOP 3 2.54255016 1.2948539 270 N 28 43 1-2-5-6-7
+TOP 4 2.54255016 3.1648527 270 N 28 44 1-2-5-6-7
+TOP 5 3.1925514 1.2948539 270 N 31 6 3
+TOP 6 3.1925514 3.1648527 270 N 29 6 4-8
+TOP 7 3.31754988 2.2298533 270 N 29 7 4-8
+#
+# CMP 40
+CMP 16 5.29999956 8.99999978 90 N J1C USB4105-GF-A-060 ;0=1,1=0.0000
+PRP MANUFACTURER 'GCT'
+PRP Manufacturer_Part_Number 'USB4105-GF-A-060'
+TOP 0 7.67750052 12.19999846 90 N 35 68 A1-B12
+TOP 1 7.67750052 11.39999752 90 N 28 47 A4-B9
+TOP 2 7.67750052 10.24999728 90 N 33 3 A5
+TOP 3 7.67750052 9.24999674 90 N 26 7 A6
+TOP 4 7.67750052 8.74999774 90 N 27 10 A7
+TOP 5 7.67750052 7.7499972 90 N 0 2 A8
+TOP 6 7.67750052 5.79999602 90 N 35 67 B1-A12
+TOP 7 7.67750052 6.59999696 90 N 28 46 B4-A9
+TOP 8 7.67750052 7.2499982 90 N 32 3 B5
+TOP 9 7.67750052 8.2499962 90 N 26 6 B6
+TOP 10 7.67750052 9.74999828 90 N 27 11 B7
+TOP 11 7.67750052 10.74999628 90 N 0 3 B8
+TOP 12 6.6025014 6.10999794 90 N 0 25 MH
+TOP 13 6.6025014 11.88999654 90 N 0 26 MH
+TOP 14 2.92250114 4.67999826 180 N 35 74 SH
+TOP 15 7.1025004 4.67999826 180 N 35 75 SH
+TOP 16 2.92250114 13.31999622 180 N 35 76 SH
+TOP 17 7.1025004 13.31999622 180 N 35 77 SH
+#
+# CMP 41
+CMP 11 7.95967166 1.63833048 90 N F1P F0603 ;0=1,1=0.0000
+PRP MANUFACTURER ''
+PRP Manufacturer_Part_Number ''
+PRP value '250mA'
+TOP 0 7.95967166 2.38833152 90 N 29 5 1
+TOP 1 7.95967166 0.88832944 90 N 30 20 2
+#
+# CMP 42
+CMP 14 12.12294502 9.09999958 270 N D1U CDSOT23-SRV05-4 ;0=1,1=0.0000
+PRP Automotive 'No'
+PRP Breakdown_Voltage '6V'
+PRP CATEGORY 'Diode'
+PRP Clamping_Voltage '15V'
+PRP componentlink2description 'Datasheet'
+PRP componentlink2url 'https://www.bourns.com/docs/Product-Datasheets/CDSOT23-SRV05-4.pdf'
+PRP Device_Class_L1 'Circuit Protection'
+PRP Device_Class_L2 'TVS Diodes'
+PRP Device_Class_L3 'unset'
+PRP Digikey_Description 'TVS DIODE 5V 15V SOT23-6'
+PRP Direction 'Bidirectional'
+PRP Height '1.45mm'
+PRP Ipc_Land_Pattern_Name 'SOT95P280X118-6'
+PRP Lead_Free 'Yes'
+PRP MANUFACTURER 'Bourns Inc.'
+PRP Manufacturer_Part_Number 'CDSOT23-SRV05-4'
+PRP Max_Junction_Temp '+150°C'
+PRP Mouser_Description 'CDSOT23-SRV05-4, Quad Uni-Directional TVS Diode, 500W, 6-Pin SOT-23'
+PRP Number_of_Channels '4'
+PRP Octopart 'https://octopart.com/cdsot23-srv05-4-bourns-1679449'
+PRP Package 'CDSOT23-SRV05-4'
+PRP Peak_Pulse_Current '30A'
+PRP Peak_Pulse_Power '500W'
+PRP Reverse_Standoff_Voltage '5V'
+PRP RoHS 'TRUE'
+PRP Standoff_Height '0.2mm'
+PRP Temperature '-55°C to +150°C'
+PRP Temperature_Range_High '+150°C'
+PRP Temperature_Range_Low '-55°C'
+TOP 0 11.17294438 8.02471852 270 N 0 0 1
+TOP 1 12.12294502 8.02471852 270 N 35 65 2
+TOP 2 13.07294566 8.02471852 270 N 27 9 3
+TOP 3 13.07294566 10.17528064 270 N 26 5 4
+TOP 4 12.12294502 10.17528064 270 N 28 45 5
+TOP 5 11.17294438 10.17528064 270 N 0 1 6
+#
+# CMP 43
+CMP 0 14.5796 6.5024 270 N C3L CL10A106KQ8NNNC ;0=1,1=0.0000
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP Case/Package '0603'
+PRP CATEGORY 'Ceramic Capacitors'
+PRP componentlink1description 'https://datasheet.ciiva.com/25793/cl10a106kq8nnnc-25793136.pdf?src-supplier=Digikey'
+PRP componentlink1url 'https://datasheet.ciiva.com/25793/cl10a106kq8nnnc-25793136.pdf?src-supplier=Digikey'
+PRP componentlink2description 'https://datasheet.ciiva.com/26838/getdatasheetpartid-359689-26838341.pdf?src-supplier=Verical'
+PRP componentlink2url 'https://datasheet.ciiva.com/26838/getdatasheetpartid-359689-26838341.pdf?src-supplier=Verical'
+PRP ComponentLink3Description 'https://datasheet.ciiva.com/29198/457384-da-01-en-vs-kondensator-0603-29198793.pdf?src-supplier=Conrad'
+PRP ComponentLink3URL 'https://datasheet.ciiva.com/29198/457384-da-01-en-vs-kondensator-0603-29198793.pdf?src-supplier=Conrad'
+PRP Construction 'Flat'
+PRP Depth '0.8mm'
+PRP Dielectric 'X5R'
+PRP Height '0.8mm'
+PRP Length '1.6mm'
+PRP MANUFACTURER 'Samsung'
+PRP Manufacturer_Part_Number 'CL10A106KQ8NNNC'
+PRP Material 'Ceramic'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'Surface Mount'
+PRP Package_Quantity '1'
+PRP packaging 'Tape and Reel'
+PRP Pricing_1 '4000=0.01211, 8000=0.01183, 16000=0.01155, 24000=0.01128, 32000=0.011 (USD)'
+PRP Radiation_Hardening 'No'
+PRP RoHS 'Yes'
+PRP RoHS_Compliant 'Yes'
+PRP SERIES 'CL'
+PRP Stock_1 '304000'
+PRP Supplier_1 'Avnet'
+PRP Supplier_Part_Number_1 'CL10A106KQ8NNNC'
+PRP Thickness '0.035inch'
+PRP Tolerance '10%'
+PRP value '10uF'
+PRP Voltage '6.3V'
+PRP Voltage_Rating '6.3V'
+PRP Voltage_Rating_(DC) '6.3V'
+PRP Width '0.031inch'
+TOP 0 14.5796 5.85239876 270 N 34 54 1
+TOP 1 14.5796 7.15240124 270 N 35 60 2
+#
+# CMP 44
+CMP 0 23.0124 3.37124294 0 N C1U C0603C104K8RACTU ;0=1,1=0.0000
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP Case/Package '0603'
+PRP CATEGORY 'Ceramic Capacitors'
+PRP componentlink1description 'https://datasheet.ciiva.com/6093/1776114-6093269.pdf?src-supplier=Farnell'
+PRP componentlink1url 'https://datasheet.ciiva.com/6093/1776114-6093269.pdf?src-supplier=Farnell'
+PRP componentlink2description 'https://datasheet.ciiva.com/7823/kem-c1002-x7r-smd-7823989.pdf?src-supplier=Element14'
+PRP componentlink2url 'https://datasheet.ciiva.com/7823/kem-c1002-x7r-smd-7823989.pdf?src-supplier=Element14'
+PRP ComponentLink3Description 'https://datasheet.ciiva.com/22693/1851736-22693967.pdf?src-supplier=Element14'
+PRP ComponentLink3URL 'https://datasheet.ciiva.com/22693/1851736-22693967.pdf?src-supplier=Element14'
+PRP ComponentLink4Description 'https://datasheet.ciiva.com/14589/70095383-14589402.pdf?src-supplier=Allied+Electronics'
+PRP ComponentLink4URL 'https://datasheet.ciiva.com/14589/70095383-14589402.pdf?src-supplier=Allied+Electronics'
+PRP ComponentLink5Description 'https://datasheet.ciiva.com/14593/70095383-14593978.pdf?src-supplier=Allied+Electronics'
+PRP ComponentLink5URL 'https://datasheet.ciiva.com/14593/70095383-14593978.pdf?src-supplier=Allied+Electronics'
+PRP ComponentLink6Description 'https://datasheet.ciiva.com/5419/kem-c1002-x7r-smd-357932-5419657.pdf?src-supplier=Mouser'
+PRP ComponentLink6URL 'https://datasheet.ciiva.com/5419/kem-c1002-x7r-smd-357932-5419657.pdf?src-supplier=Mouser'
+PRP ComponentLink7Description 'https://datasheet.ciiva.com/18192/getdatasheetpartid-91529-18192711.pdf?src-supplier=Verical'
+PRP ComponentLink7URL 'https://datasheet.ciiva.com/18192/getdatasheetpartid-91529-18192711.pdf?src-supplier=Verical'
+PRP Construction 'Flat'
+PRP Depth '0.8mm'
+PRP Dielectric 'X7R'
+PRP Dielectric_Material 'Ceramic'
+PRP Dissipation_Factor '5%'
+PRP Height '0.8mm'
+PRP Lead_Free '5697LeadFree'
+PRP Lead_Pitch '0.7mm'
+PRP Length '1.6mm'
+PRP MANUFACTURER 'KEMET'
+PRP Manufacturer_Part_Number 'C0603C104K8RACTU'
+PRP Material '4241ConductorMaterial'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'Surface Mount,PCB'
+PRP Package_Quantity '1'
+PRP packaging 'Tape and Reel'
+PRP Pins '2'
+PRP Pricing_1 '1=0.11, 10=0.075, 50=0.075, 100=0.036, 1000=0.021, 10000=0.017 (USD)'
+PRP Radiation_Hardening 'No'
+PRP Reach_SVHC_Compliant 'No'
+PRP RoHS 'Yes'
+PRP RoHS_Compliant 'Yes'
+PRP SERIES 'C'
+PRP Stock_1 '246409'
+PRP Supplier_1 'Mouser'
+PRP Supplier_Part_Number_1 '80-C0603C104K8R'
+PRP Temperature_Coefficient '30ppm/°C'
+PRP Termination 'SMD/SMT'
+PRP Thickness '0.034inch'
+PRP Tolerance '10%'
+PRP value '100nF'
+PRP Voltage '10V'
+PRP Voltage_Rating '10V'
+PRP Voltage_Rating_(DC) '10V'
+PRP Width '0.031inch'
+TOP 0 22.36239876 3.37124294 0 N 30 21 1
+TOP 1 23.66240124 3.37124294 0 N 35 61 2
+#
+# CMP 45
+CMP 0 9.39337212 1.64439346 270 N C1L C1608X5R1A106K080AC ;0=1,1=0.0000
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP Case/Package '0603'
+PRP CATEGORY 'Ceramic Capacitors'
+PRP componentlink1description 'https://datasheet.ciiva.com/23802/1796654-23802763.pdf?src-supplier=Newark'
+PRP componentlink1url 'https://datasheet.ciiva.com/23802/1796654-23802763.pdf?src-supplier=Newark'
+PRP componentlink2description 'https://datasheet.ciiva.com/7975/1796654-7975065.pdf?src-supplier=Element14'
+PRP componentlink2url 'https://datasheet.ciiva.com/7975/1796654-7975065.pdf?src-supplier=Element14'
+PRP ComponentLink3Description 'https://datasheet.ciiva.com/22694/1796654-22694118.pdf?src-supplier=Element14'
+PRP ComponentLink3URL 'https://datasheet.ciiva.com/22694/1796654-22694118.pdf?src-supplier=Element14'
+PRP ComponentLink4Description 'https://datasheet.ciiva.com/28577/mlcc-commercial-general-en-28577085.pdf?src-supplier=Element14'
+PRP ComponentLink4URL 'https://datasheet.ciiva.com/28577/mlcc-commercial-general-en-28577085.pdf?src-supplier=Element14'
+PRP ComponentLink5Description 'https://datasheet.ciiva.com/28577/1744655-28577071.pdf?src-supplier=Element14'
+PRP ComponentLink5URL 'https://datasheet.ciiva.com/28577/1744655-28577071.pdf?src-supplier=Element14'
+PRP ComponentLink6Description 'https://datasheet.ciiva.com/6288/tdkmlcccaprange-6288222.pdf?src-supplier=Digikey'
+PRP ComponentLink6URL 'https://datasheet.ciiva.com/6288/tdkmlcccaprange-6288222.pdf?src-supplier=Digikey'
+PRP ComponentLink7Description 'https://datasheet.ciiva.com/6288/tdkmlcccaprange-6288220.pdf?src-supplier=Digikey'
+PRP ComponentLink7URL 'https://datasheet.ciiva.com/6288/tdkmlcccaprange-6288220.pdf?src-supplier=Digikey'
+PRP ComponentLink8Description 'https://datasheet.ciiva.com/6288/tdkmlcccaprange-6288223.pdf?src-supplier=Digikey'
+PRP ComponentLink8URL 'https://datasheet.ciiva.com/6288/tdkmlcccaprange-6288223.pdf?src-supplier=Digikey'
+PRP ComponentLink9Description 'https://datasheet.ciiva.com/16449/mlcc-commercial-general-en-16449573.pdf?src-supplier=Future+Electronics'
+PRP ComponentLink9URL 'https://datasheet.ciiva.com/16449/mlcc-commercial-general-en-16449573.pdf?src-supplier=Future+Electronics'
+PRP ComponentLink10Description 'https://datasheet.ciiva.com/48671/e412-c-48671301.pdf?src-supplier=Avnet'
+PRP ComponentLink10URL 'https://datasheet.ciiva.com/48671/e412-c-48671301.pdf?src-supplier=Avnet'
+PRP Construction 'Flat'
+PRP Depth '0.8mm'
+PRP Dielectric 'X5R'
+PRP Dielectric_Material 'Ceramic'
+PRP Height '0.8mm'
+PRP Lead_Free 'Lead Free'
+PRP Length '1.6mm'
+PRP MANUFACTURER 'TDK'
+PRP Manufacturer_Part_Number 'C1608X5R1A106K080AC'
+PRP Material '4241ConductorMaterial'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'Surface Mount'
+PRP Package_Quantity '1'
+PRP packaging 'Tape and Reel'
+PRP Pins '2'
+PRP Pricing_1 '1=61.09, 10=33.6, 50=30.24, 100=24, 500=21.6, 1000=20.52, 2000=19.9, 4000=9.6 (JPY)'
+PRP Reach_SVHC_Compliant 'No'
+PRP RoHS 'Yes'
+PRP RoHS_Compliant 'Yes'
+PRP SERIES 'C'
+PRP Stock_1 '1640'
+PRP Supplier_1 'CoreStaff'
+PRP Supplier_Part_Number_1 'ST47794328'
+PRP Termination 'SMD/SMT'
+PRP Thickness '0.035inch'
+PRP Tolerance '10%'
+PRP value '10uF'
+PRP Voltage '10V'
+PRP Voltage_Rating '10V'
+PRP Voltage_Rating_(DC) '10V'
+PRP Weight '7.1E-05oz'
+PRP Width '0.031inch'
+TOP 0 9.39337212 0.99439222 270 N 30 22 1
+TOP 1 9.39337212 2.2943947 270 N 35 62 2
+#
+# CMP 46
+CMP 8 31.9999995 17.09999882 0 N H2M 2.2_mm ;0=2,1=0.0000
+PRP ki_description 'Mounting Hole with connection'
+PRP ki_fp_filters 'MountingHole*Pad*'
+PRP ki_keywords 'mounting hole'
+PRP Supplier '~'
+PRP value '2.2 mm'
+TOP 0 30.83327336 15.93327268 0 N 0 16 1
+TOP 1 30.35000026 17.09999882 0 N 0 17 1
+TOP 2 31.9999995 17.09999882 0 N 0 18 1
+TOP 3 31.9999995 15.44999958 0 N 0 19 1
+TOP 4 33.16672564 15.93327268 0 N 0 20 1
+TOP 5 30.83327336 18.26672496 0 N 0 21 1
+TOP 6 31.9999995 18.74999806 0 N 0 22 1
+TOP 7 33.64999874 17.09999882 0 N 0 23 1
+TOP 8 33.16672564 18.26672496 0 N 0 24 1
+#
+# CMP 47
+CMP 8 2.89999928 17.09999882 0 N H1M 2.2_mm ;0=2,1=0.0000
+PRP ki_description 'Mounting Hole with connection'
+PRP ki_fp_filters 'MountingHole*Pad*'
+PRP ki_keywords 'mounting hole'
+PRP Supplier '~'
+PRP value '2.2 mm'
+TOP 0 1.73327314 15.93327268 0 N 0 7 1
+TOP 1 1.25000004 17.09999882 0 N 0 8 1
+TOP 2 2.89999928 17.09999882 0 N 0 9 1
+TOP 3 2.89999928 15.44999958 0 N 0 10 1
+TOP 4 4.06672542 15.93327268 0 N 0 11 1
+TOP 5 1.73327314 18.26672496 0 N 0 12 1
+TOP 6 2.89999928 18.74999806 0 N 0 13 1
+TOP 7 4.54999852 17.09999882 0 N 0 14 1
+TOP 8 4.06672542 18.26672496 0 N 0 15 1
+#

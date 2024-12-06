@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\desktop\Documents\Project Files\Altium\Projects\Project - Devlopment\USB-SMB-ISO-CP2112\USB-SMB-ISO-CP2112-V-1.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=usb-smb-iso-cp2112-v-1-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=usb-smb-iso-cp2112-v-1-slotholes.txt|DrillLayers=gtl,gbl

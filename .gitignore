@@ -1,0 +1,33 @@
+#Directories
+.svn/*
+.Backups/*
+History/*
+__Previews
+
+# Altium Project Files
+*.VersionControl
+
+# Design Files
+*.SchDoc~ # Temporary schematic backups
+*.PcbDoc~ # Temporary PCB backups
+*.SchDoc# # Locked files
+*.PcbDoc# # Locked files
+
+# Generated Files
+*.PcbLib~
+*.SchLib~
+*.Ddb~ # Temporary database backups
+*.Ddb# # Locked database files
+
+# Backup Files
+*.Bak
+*.Backups/
+
+# Autosave and Cache Files
+*.autosave
+*.dbcache
+
+# System Files
+.DS_Store
+Thumbs.db
+desktop.ini

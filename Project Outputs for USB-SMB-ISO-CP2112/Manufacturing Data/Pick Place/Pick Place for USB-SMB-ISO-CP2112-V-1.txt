@@ -1,0 +1,62 @@
+Altium Designer Pick and Place Locations
+C:\Users\desktop\Documents\Project Files\Altium\Projects\Project - Devlopment\USB-SMB-ISO-CP2112\Project Outputs for USB-SMB-ISO-CP2112\Manufacturing Data\Pick Place\Pick Place for USB-SMB-ISO-CP2112-V-1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       06-12-24
+Time:       14:30
+Revision:   433
+Variant:    No variations
+Units used: mm
+
+Designator Comment             Layer    Footprint                          Center-X(mm) Center-Y(mm) Rotation Description                                                                                    
+ZD2P       MM3Z12VST1G         TopLayer SOD-323                            43.2308      15.2654      270      "MM3Z12VST1G Zener Diode, 12V 2% 200 mW SMT 2-Pin SOD-323"                                     
+R2P        AC0603FR-07100KL    TopLayer R0603-MFG                          45.6946      16.6624      0        "SMD Chip Resistor, 100 kOhm, ± 1%, 100 mW, 0603 [1608 Metric], Thick Film, General Purpose"   
+Q2P        PMPB14XPZ           TopLayer DFN2020MD-MFG                      45.5249      14.5034      270      PMPB14XPZ                                                                                      
+F2P        F0603               TopLayer R0603-MFG                          41.1480      13.3858      270      "Fuse PPTC SMD 0603"                                                                           
+C3P        C0603C104K8RACTU    TopLayer C0603-IPC_C_No_Silk                46.2534      12.3444      0        "Multilayer Ceramic Capacitor, 0.1 uF, 10 V, ± 10%, X7R, 0603 [1608 Metric]"                   
+C2P        C0603C105K8PACTU    TopLayer C0603-IPC_C_No_Silk                39.9034      13.3604      90       "Ceramic Capacitor, Multilayer, Ceramic, 10V, 10% +Tol, 10% -Tol, X5R, 15% TC, 1uF, 0603"      
+C4U        KGM15AR70J104KM     TopLayer C0603-IPC_C_No_Silk                20.3962      4.4958       180      "Cap Cer 0.1UF 6.3V X7R 0603"                                                                  
+R4I        RC0603FR-072K2L     TopLayer R0603-MFG                          40.1918      4.6059       270      "SMD Chip Resistor, 2.2 kOhm, ± 1%, 100 mW, 0603 [1608 Metric], Thick Film, General Purpose"   
+R3I        RC0603FR-072K2L     TopLayer R0603-MFG                          38.8112      5.3848       270      "SMD Chip Resistor, 2.2 kOhm, ± 1%, 100 mW, 0603 [1608 Metric], Thick Film, General Purpose"   
+R2I        RC0603FR-072K2L     TopLayer R0603-MFG                          24.9174      5.3848       270      "SMD Chip Resistor, 2.2 kOhm, ± 1%, 100 mW, 0603 [1608 Metric], Thick Film, General Purpose"   
+R1I        RC0603FR-072K2L     TopLayer R0603-MFG                          26.2890      4.6482       270      "SMD Chip Resistor, 2.2 kOhm, ± 1%, 100 mW, 0603 [1608 Metric], Thick Film, General Purpose"   
+C4I        C0603C104K8RACTU    TopLayer C0603-IPC_C_No_Silk                38.8112      7.7470       90       "Multilayer Ceramic Capacitor, 0.1 uF, 10 V, ± 10%, X7R, 0603 [1608 Metric]"                   
+C3I        CC0603KRX7R6BB102   TopLayer C0603-IPC_C_No_Silk                37.4650      6.6294       90       "Cap Ceramic 0.001uF 10V X7R 10% SMD 0603 125°C Paper T/R"                                     
+C2I        06036A102KAT2A      TopLayer C0603-IPC_C_No_Silk                28.1686      7.6454       0        "Cap Ceramic 0.001uF 6.3V C0G 10% SMD 0603 125°C Paper T/R"                                    
+C1I        KGM15AR70J104KM     TopLayer C0603-IPC_C_No_Silk                28.1686      8.8392       0        "Cap Cer 0.1UF 6.3V X7R 0603"                                                                  
+D3U        RED                 TopLayer LED_0603_RED                       26.5811      11.8698      90       "LED 0603 RED SMD"                                                                             
+D2U        GREEN               TopLayer LED_0603_GREEN                     24.7904      11.8698      90       "LED 0603 GREEN SMD"                                                                           
+U1U        CP2112-F03-GM       TopLayer CP2112-IPC_A                       20.0000      8.9999       90       "IC HID USB-TO-SMBUS BRIDGE 24QFN"                                                             
+C2U        C0603C104K8RACTU    TopLayer C0603-IPC_C_No_Silk                23.0124      4.5466       0        "Multilayer Ceramic Capacitor, 0.1 uF, 10 V, ± 10%, X7R, 0603 [1608 Metric]"                   
+C2L        C0603C104K8RACTU    TopLayer C0603-IPC_C_No_Silk                10.8271      1.6444       90       "Multilayer Ceramic Capacitor, 0.1 uF, 10 V, ± 10%, X7R, 0603 [1608 Metric]"                   
+R3L        RC0603FR-0710KL     TopLayer R0603-MFG                          18.5674      1.8328       180      "SMD Chip Resistor, 10 kOhm, ± 1%, 100 mW, 0603 [1608 Metric], Thick Film, General Purpose"    
+R2L        CR0603-FX-2002ELF   TopLayer R0603-MFG                          10.8271      4.1210       90       "SMD Chip Resistor, 20 kOhm, ± 1%, 100 mW, 0603 [1608 Metric], Thick Film, General Purpose"    
+R0L        MCR03EZPFX1691      TopLayer R0603-MFG                          12.4140      6.2423       180      "Surface Mount Thick Film Chip Resistor 0603 Case 1.69K Ohms 1% Tolerance 100 PPM"             
+C5U        CL10A475KP8NNNC     TopLayer C0603-MFG_No_Silk                  20.4724      12.6270      0        "Multilayer Ceramic Capacitor, 4.7 uF, 10 V, ± 10%, X5R, 0603 [1608 Metric]"                   
+C3U        KGM15AR70J104KM     TopLayer C0603-IPC_C_No_Silk                20.3962      3.3204       180      "Cap Cer 0.1UF 6.3V X7R 0603"                                                                  
+J2C        2X09                TopLayer PinHeader_2x09_P2.54mm_Vertical    17.4600      16.8700      90       ""                                                                                             
+R2U        RC0603FR-0710KL     TopLayer R0603-MFG                          17.8816      12.6270      180      "SMD Chip Resistor, 10 kOhm, ± 1%, 100 mW, 0603 [1608 Metric], Thick Film, General Purpose"    
+R1U        RC0603FR-0710KL     TopLayer R0603-MFG                          25.6794      7.6454       180      "SMD Chip Resistor, 10 kOhm, ± 1%, 100 mW, 0603 [1608 Metric], Thick Film, General Purpose"    
+J3C        2X04                TopLayer PinHeader_2x04_P2.54mm_Vertical    44.7548      6.2738       0        ""                                                                                             
+R4L        MCR03EZPFX2491      TopLayer R0603-MFG                          25.7048      8.8392       180      "Res Thick Film 0603 2.49K Ohm 1% 1/10W ±100ppm/°C Molded SMD SMD Paper T/R"                   
+R1L        ERJ-3EKF3302V       TopLayer R0603-MFG                          12.2608      4.1210       270      "Res Thick Film 0603 33K Ohm 1% 0.1W(1/10W) ±100ppm/C Pad SMD Automotive T/R"                  
+D1L        YELLOW              TopLayer LED_0603_YELLOW                    28.3718      11.8698      90       "LED 0603 YELLOW SMD"                                                                          
+C1P        C0603C104K8RACTU    TopLayer C0603-IPC_C_No_Silk                11.5438      11.8776      180      "Multilayer Ceramic Capacitor, 0.1 uF, 10 V, ± 10%, X7R, 0603 [1608 Metric]"                   
+ZD1P       MM3Z12VST1G         TopLayer SOD-323                            4.9381       1.8717       90       "MM3Z12VST1G Zener Diode, 12V 2% 200 mW SMT 2-Pin SOD-323"                                     
+U1I        ADUM1252AWA+        TopLayer SOIC-W-8-IPC_A                     32.0000      4.0000       0        "Ultra-Low Power, Bidirectional I2C Isolator with Extended VDD, Idle-Bus Hot-Swap and Low VOL" 
+U1L        SGM2019-ADJYN5G/TR  TopLayer TSOT-23-5-IPC-A                    15.3561      3.0828       90       "LDO U-Reg Adj 0, 3A SOT23-5"                                                                  
+R2C        CRCW06035K10FKEA    TopLayer R0603-MFG                          9.9084       13.2438      180      "SMD Chip Resistor, 5.1 kOhm, ± 1%, 100 mW, 0603 [1608 Metric], Thick Film, General Purpose"   
+R1P        AC0603FR-07100KL    TopLayer R0603-MFG                          6.5696       1.6383       90       "SMD Chip Resistor, 100 kOhm, ± 1%, 100 mW, 0603 [1608 Metric], Thick Film, General Purpose"   
+R1C        CRCW06035K10FKEA    TopLayer R0603-MFG                          9.4237       4.1210       270      "SMD Chip Resistor, 5.1 kOhm, ± 1%, 100 mW, 0603 [1608 Metric], Thick Film, General Purpose"   
+Q1P        PMPB14XPZ           TopLayer DFN2020MD-MFG                      2.6051       2.2299       90       PMPB14XPZ                                                                                      
+J1C        USB4105-GF-A-060    TopLayer USB-Type-C-16-Pin-SMT              5.3000       9.0000       270      "USB Connector Type C SMT 16 Pin
+(Power pins joints = 12 pins)"                               
+F1P        F0603               TopLayer R0603-MFG                          7.9597       1.6383       270      "Fuse PPTC SMD 0603"                                                                           
+D1U        CDSOT23-SRV05-4     TopLayer SOT23-6-IPC_C                      12.1230      9.1000       90       "TVS DIODE 5V 15V SOT23-6"                                                                     
+C3L        CL10A106KQ8NNNC     TopLayer C0603-IPC_C_No_Silk                14.5796      6.5024       90       "Multilayer Ceramic Capacitor, 10 uF, 6.3 V, ± 10%, X5R, 0603 [1608 Metric]"                   
+C1U        C0603C104K8RACTU    TopLayer C0603-IPC_C_No_Silk                23.0124      3.3712       0        "Multilayer Ceramic Capacitor, 0.1 uF, 10 V, ± 10%, X7R, 0603 [1608 Metric]"                   
+C1L        C1608X5R1A106K080AC TopLayer C0603-IPC_C_No_Silk                9.3934       1.6444       90       "Multilayer Ceramic Capacitor, 10 uF, 10 V, ± 10%, X5R, 0603 [1608 Metric]"                    
+H2M        "2.2 mm"            TopLayer MountingHole_2.2mm_M2_Pad_Via_Mask 32.0000      17.1000      0        ""                                                                                             
+H1M        "2.2 mm"            TopLayer MountingHole_2.2mm_M2_Pad_Via_Mask 2.9000       17.1000      0        ""                                                                                             

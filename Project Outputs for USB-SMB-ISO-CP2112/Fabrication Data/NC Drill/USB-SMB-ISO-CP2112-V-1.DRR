@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: USB-SMB-ISO-CP2112-V-1.PcbDoc   06-12-2024  14:33:31
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : USB-SMB-ISO-CP2112-V-1-RoundHoles.TXT
+ASCII SlotHoles File : USB-SMB-ISO-CP2112-V-1-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             119       PTH        277.33mm (10.92inch)
+T2      0.6mm (24mil)                                             Slot              4         PTH        37.57mm (1.48inch)
+T3      1mm (39mil)                                               Round             26        PTH        90.20mm (3.55inch)
+T4      2.2mm (87mil)                                             Round             2         PTH        29.10mm (1.15inch)
+T5      0.65mm (26mil)                                            Round             2         NPTH       5.78mm (0.23inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              153
+
+Total Processing Time (hh:mm:ss) : 00:00:00
