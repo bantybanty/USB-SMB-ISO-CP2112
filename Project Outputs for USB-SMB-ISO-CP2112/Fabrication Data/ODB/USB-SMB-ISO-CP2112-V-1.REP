@@ -26,17 +26,13 @@ Generated File : C:\Users\desktop\Documents\Project Files\Altium\Projects\Projec
 
 Generated File : C:\Users\desktop\Documents\Project Files\Altium\Projects\Project - Devlopment\USB-SMB-ISO-CP2112\Project Outputs for USB-SMB-ISO-CP2112\Fabrication Data\ODB\odb\steps\pcb\layers\mechanical_1\attrlist
 
-Generated File : C:\Users\desktop\Documents\Project Files\Altium\Projects\Project - Devlopment\USB-SMB-ISO-CP2112\Project Outputs for USB-SMB-ISO-CP2112\Fabrication Data\ODB\odb\steps\pcb\layers\bottom_solder\features
-
-Generated File : C:\Users\desktop\Documents\Project Files\Altium\Projects\Project - Devlopment\USB-SMB-ISO-CP2112\Project Outputs for USB-SMB-ISO-CP2112\Fabrication Data\ODB\odb\steps\pcb\layers\bottom_solder\attrlist
-
 Generated File : C:\Users\desktop\Documents\Project Files\Altium\Projects\Project - Devlopment\USB-SMB-ISO-CP2112\Project Outputs for USB-SMB-ISO-CP2112\Fabrication Data\ODB\odb\steps\pcb\layers\dimensions\features
 
 Generated File : C:\Users\desktop\Documents\Project Files\Altium\Projects\Project - Devlopment\USB-SMB-ISO-CP2112\Project Outputs for USB-SMB-ISO-CP2112\Fabrication Data\ODB\odb\steps\pcb\layers\dimensions\attrlist
 
-Generated File : C:\Users\desktop\Documents\Project Files\Altium\Projects\Project - Devlopment\USB-SMB-ISO-CP2112\Project Outputs for USB-SMB-ISO-CP2112\Fabrication Data\ODB\odb\steps\pcb\layers\board_shape\features
+Generated File : C:\Users\desktop\Documents\Project Files\Altium\Projects\Project - Devlopment\USB-SMB-ISO-CP2112\Project Outputs for USB-SMB-ISO-CP2112\Fabrication Data\ODB\odb\steps\pcb\layers\bottom_solder\features
 
-Generated File : C:\Users\desktop\Documents\Project Files\Altium\Projects\Project - Devlopment\USB-SMB-ISO-CP2112\Project Outputs for USB-SMB-ISO-CP2112\Fabrication Data\ODB\odb\steps\pcb\layers\board_shape\attrlist
+Generated File : C:\Users\desktop\Documents\Project Files\Altium\Projects\Project - Devlopment\USB-SMB-ISO-CP2112\Project Outputs for USB-SMB-ISO-CP2112\Fabrication Data\ODB\odb\steps\pcb\layers\bottom_solder\attrlist
 
 Generated File : C:\Users\desktop\Documents\Project Files\Altium\Projects\Project - Devlopment\USB-SMB-ISO-CP2112\Project Outputs for USB-SMB-ISO-CP2112\Fabrication Data\ODB\odb\steps\pcb\layers\bottom_paste\features
 
@@ -46,23 +42,11 @@ Generated File : C:\Users\desktop\Documents\Project Files\Altium\Projects\Projec
 
 Generated File : C:\Users\desktop\Documents\Project Files\Altium\Projects\Project - Devlopment\USB-SMB-ISO-CP2112\Project Outputs for USB-SMB-ISO-CP2112\Fabrication Data\ODB\odb\steps\pcb\layers\bottom_component_outline\attrlist
 
-Generated File : C:\Users\desktop\Documents\Project Files\Altium\Projects\Project - Devlopment\USB-SMB-ISO-CP2112\Project Outputs for USB-SMB-ISO-CP2112\Fabrication Data\ODB\odb\steps\pcb\layers\mechanical_15\features
-
-Generated File : C:\Users\desktop\Documents\Project Files\Altium\Projects\Project - Devlopment\USB-SMB-ISO-CP2112\Project Outputs for USB-SMB-ISO-CP2112\Fabrication Data\ODB\odb\steps\pcb\layers\mechanical_15\attrlist
-
 Generated File : C:\Users\desktop\Documents\Project Files\Altium\Projects\Project - Devlopment\USB-SMB-ISO-CP2112\Project Outputs for USB-SMB-ISO-CP2112\Fabrication Data\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\features
 
 Generated File : C:\Users\desktop\Documents\Project Files\Altium\Projects\Project - Devlopment\USB-SMB-ISO-CP2112\Project Outputs for USB-SMB-ISO-CP2112\Fabrication Data\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\attrlist
 
 Generated File : C:\Users\desktop\Documents\Project Files\Altium\Projects\Project - Devlopment\USB-SMB-ISO-CP2112\Project Outputs for USB-SMB-ISO-CP2112\Fabrication Data\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\tools
-
-Generated File : C:\Users\desktop\Documents\Project Files\Altium\Projects\Project - Devlopment\USB-SMB-ISO-CP2112\Project Outputs for USB-SMB-ISO-CP2112\Fabrication Data\ODB\odb\steps\pcb\layers\top_tenting\features
-
-Generated File : C:\Users\desktop\Documents\Project Files\Altium\Projects\Project - Devlopment\USB-SMB-ISO-CP2112\Project Outputs for USB-SMB-ISO-CP2112\Fabrication Data\ODB\odb\steps\pcb\layers\top_tenting\attrlist
-
-Generated File : C:\Users\desktop\Documents\Project Files\Altium\Projects\Project - Devlopment\USB-SMB-ISO-CP2112\Project Outputs for USB-SMB-ISO-CP2112\Fabrication Data\ODB\odb\steps\pcb\layers\top_component_center\features
-
-Generated File : C:\Users\desktop\Documents\Project Files\Altium\Projects\Project - Devlopment\USB-SMB-ISO-CP2112\Project Outputs for USB-SMB-ISO-CP2112\Fabrication Data\ODB\odb\steps\pcb\layers\top_component_center\attrlist
 
 Generated File : C:\Users\desktop\Documents\Project Files\Altium\Projects\Project - Devlopment\USB-SMB-ISO-CP2112\Project Outputs for USB-SMB-ISO-CP2112\Fabrication Data\ODB\odb\steps\pcb\layers\top_component_outline\features
 
@@ -72,6 +56,14 @@ Generated File : C:\Users\desktop\Documents\Project Files\Altium\Projects\Projec
 
 Generated File : C:\Users\desktop\Documents\Project Files\Altium\Projects\Project - Devlopment\USB-SMB-ISO-CP2112\Project Outputs for USB-SMB-ISO-CP2112\Fabrication Data\ODB\odb\steps\pcb\layers\top_paste\attrlist
 
+Generated File : C:\Users\desktop\Documents\Project Files\Altium\Projects\Project - Devlopment\USB-SMB-ISO-CP2112\Project Outputs for USB-SMB-ISO-CP2112\Fabrication Data\ODB\odb\steps\pcb\layers\top_tenting\features
+
+Generated File : C:\Users\desktop\Documents\Project Files\Altium\Projects\Project - Devlopment\USB-SMB-ISO-CP2112\Project Outputs for USB-SMB-ISO-CP2112\Fabrication Data\ODB\odb\steps\pcb\layers\top_tenting\attrlist
+
+Generated File : C:\Users\desktop\Documents\Project Files\Altium\Projects\Project - Devlopment\USB-SMB-ISO-CP2112\Project Outputs for USB-SMB-ISO-CP2112\Fabrication Data\ODB\odb\steps\pcb\layers\board_shape\features
+
+Generated File : C:\Users\desktop\Documents\Project Files\Altium\Projects\Project - Devlopment\USB-SMB-ISO-CP2112\Project Outputs for USB-SMB-ISO-CP2112\Fabrication Data\ODB\odb\steps\pcb\layers\board_shape\attrlist
+
 Generated File : C:\Users\desktop\Documents\Project Files\Altium\Projects\Project - Devlopment\USB-SMB-ISO-CP2112\Project Outputs for USB-SMB-ISO-CP2112\Fabrication Data\ODB\odb\steps\pcb\layers\mechanical_13\features
 
 Generated File : C:\Users\desktop\Documents\Project Files\Altium\Projects\Project - Devlopment\USB-SMB-ISO-CP2112\Project Outputs for USB-SMB-ISO-CP2112\Fabrication Data\ODB\odb\steps\pcb\layers\mechanical_13\attrlist
@@ -79,6 +71,14 @@ Generated File : C:\Users\desktop\Documents\Project Files\Altium\Projects\Projec
 Generated File : C:\Users\desktop\Documents\Project Files\Altium\Projects\Project - Devlopment\USB-SMB-ISO-CP2112\Project Outputs for USB-SMB-ISO-CP2112\Fabrication Data\ODB\odb\steps\pcb\layers\top_solder\features
 
 Generated File : C:\Users\desktop\Documents\Project Files\Altium\Projects\Project - Devlopment\USB-SMB-ISO-CP2112\Project Outputs for USB-SMB-ISO-CP2112\Fabrication Data\ODB\odb\steps\pcb\layers\top_solder\attrlist
+
+Generated File : C:\Users\desktop\Documents\Project Files\Altium\Projects\Project - Devlopment\USB-SMB-ISO-CP2112\Project Outputs for USB-SMB-ISO-CP2112\Fabrication Data\ODB\odb\steps\pcb\layers\mechanical_15\features
+
+Generated File : C:\Users\desktop\Documents\Project Files\Altium\Projects\Project - Devlopment\USB-SMB-ISO-CP2112\Project Outputs for USB-SMB-ISO-CP2112\Fabrication Data\ODB\odb\steps\pcb\layers\mechanical_15\attrlist
+
+Generated File : C:\Users\desktop\Documents\Project Files\Altium\Projects\Project - Devlopment\USB-SMB-ISO-CP2112\Project Outputs for USB-SMB-ISO-CP2112\Fabrication Data\ODB\odb\steps\pcb\layers\top_component_center\features
+
+Generated File : C:\Users\desktop\Documents\Project Files\Altium\Projects\Project - Devlopment\USB-SMB-ISO-CP2112\Project Outputs for USB-SMB-ISO-CP2112\Fabrication Data\ODB\odb\steps\pcb\layers\top_component_center\attrlist
 
 Generated File : C:\Users\desktop\Documents\Project Files\Altium\Projects\Project - Devlopment\USB-SMB-ISO-CP2112\Project Outputs for USB-SMB-ISO-CP2112\Fabrication Data\ODB\odb\steps\pcb\layers\bottom_layer\features
 
